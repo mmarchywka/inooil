@@ -1,0 +1,41 @@
+
+
+
+\ifdefined\mjmlegacy
+\documentclass[aps,secnumarabic,balancelastpage,amsmath,amssymb,nofootinbib]{revtex4}
+\else
+\documentclass[aps,secnumarabic,balancelastpage,amsmath,amssymb,nofootinbib]{revtex4-2}
+\usepackage{array}[=2016-10-06]
+\fi
+
+
+\input{myskeletonpackages.tex}
+
+\newcolumntype{.}[1]{D{.}{.}{#1}}
+%\usepackage[maxfloats=30]{morefloats}   %mjm   saving up figs for the end   
+% no param on old version stuck at 36
+\usepackage{morefloats}        %mjm   saving up figs for the end   
+\usepackage{graphicx}        %mjm   saving up figs for the end   
+
+% will need modificaitons 
+\input{recent_template.tex}
+
+
+
+% https://tex.stackexchange.com/questions/121601/automatically-wrap-the-text-in-verbatim
+\usepackage{listings}
+\lstset{
+basicstyle=\small\ttfamily,
+columns=flexible,
+breaklines=true
+}
+
+% none of this fking fking works for a f F 
+\newcommand{\mjmverbatim}{lstlisting}
+\newcommand{\mjmbeginverbatim}{\begin{lstlisting}}
+\newcommand{\mjmendverbatim}{\end{lstlisting}}
+
+\newcommand{\mjmmangle}[1]{keep/#1}
+
+
+

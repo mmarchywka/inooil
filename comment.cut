@@ -1,0 +1,108 @@
+\section{About the Authors and Facility}
+This work was performed at a dog rescue run by Barbara Cade and
+housed in rural Georgia.  The author of this report
+,Mike Marchywka,
+has a background in electrical engineering and
+has done extensive research using free online literature sources.
+I hope to find additional people interested in critically
+examining the results and verify that they can be reproduced
+effectively to treat other dogs.
+
+\begin{comment}
+\begin{figure}[htb]
+\centering
+\mjmed{ picture commented out to save space in drafts...  }
+%\includegraphics[width=\picwidth]{me_on_brick.jpg}
+\caption{
+ }
+\end{figure}
+
+\end{comment}
+
+
+\section{Symbols, Abbreviations and Colloquialisms}
+
+\begin{comment}
+% grep "[A-Z][A-Z]" paradox.tex | sed -e 's/[^A-Z]/\n/g' | grep "[A-Z]" | sort | uniq -c
+% cat  paradox.tex | sed -e 's/  */\n/g' | grep "[A-Z][A-Z]"  | grep -v "[^A-Z]" | sort | uniq  |awk '{print $0" &   \\\\"; }'
+\end{comment}
+
+
+%\abbreviations{The following abbreviations are used in this manuscript:\\
+%\begin{table}
+\noindent
+\begin{tabular}{@{}ll}
+%SMVT & Sodium dependent Multi-Vitamin Transporter\\
+TERM & definition and meaning   \\
+\hline
+%TLA & Three letter acronym\\
+%LD & linear dichroism
+\end{tabular} % }
+%\end{table}
+
+% https://tex.stackexchange.com/questions/5957/bibtex-entry-for-white-papers-and-technical-reports
+
+\section{General caveats and disclaimer }
+\label{appendix:caveats}
+
+%\input{disclaimer-informal.tex}
+\input{disclaimer-gaslight.tex}
+\input{disclaimer-status.tex}
+
+\section{Citing this as a tech report or white paper }
+\label{appendix:citing}
+
+Note: This is mostly manually entered and not assured to be error free.
+
+This is tech report \mjmtrno.
+
+\begin{table}[H] \centering
+\begin{tabular}{r|r|c|r}
+Version & Date & Comments  &  \\
+0.01 & \mjmmakedate  &  Create from empty.tex template  &  \\
+-  & \today & version  \mjmversion { }   \mjmtrno  &  \\
+1.0 & 20xx-xx-xx & First revision for distribution &  \\
+\end{tabular}
+\end{table}
+
+
+Released versions,
+
+build script needs to include empty releases.tex
+\begin{table}[H] \centering
+\begin{tabular}{|r|r|l|}
+Version & Date & URL    \\
+\hline
+\expandableinput{releases.tex}
+%\input{releases.tex}
+\hline
+\end{tabular}
+\end{table}
+
+
+
+
+
+% 2020-11-30 keep on same page
+%\input{bibtex2.txt}
+
+\begin{minipage}{\linewidth}
+%\input{bibtex2.txt}
+%\input{bibtex3.txt}
+\mjmshowbib
+\end{minipage}
+
+
+
+
+\begin{comment}
+
+\end{comment}
+\vspace{1cm}
+Supporting files. Note that some dates,sizes, and md5's will change as this is
+rebuilt.
+
+This really needs to include the data analysis code
+but right now it is auto generated picking up things from prior
+build in many cases
+\lstinputlisting{\mjmbasename.bundle_checksums}
