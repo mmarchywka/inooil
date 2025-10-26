@@ -19,6 +19,13 @@ effectively to treat other dogs.
 
 \end{comment}
 
+\section{Happy Monthly Diet Tables}
+\label{appendix:diettab}
+The earlier months are during periods of little coughing.
+The Control month was bad coughing recently and the current
+data is regarding October 2025.
+\expandableinput{keep/oldtable.tex}
+\expandableinput{keep/newtable.tex}
 
 \section{Symbols, Abbreviations and Colloquialisms}
 

@@ -252,6 +252,7 @@ breaklines=true
 \newcommand{\mjmreffig}[1]{Fig. \ref{fig:#1}}
 \newcommand{\mjmreftab}[1]{Table  \ref{tab:#1}}
 \newcommand{\mjmrefeqn}[1]{Eqn  \ref{eqn:#1}}
+\newcommand{\mjmrefapp}[1]{Appendix \ref{appendix:#1}}
 
 
 %cp yyy2.pdf ~/d/latex/keep/pp20171124biotin.pdf
@@ -319,12 +320,17 @@ not ready at all
 
 A previous recent report detailed the overall safety and
 possible benefits of copper supplemetation in a group of dogs
-with heart benefits thought to be the most relevant.
+with heart benefits thought to be the most relevant
+\cite{marchywka-MJM-2024-010-0.01rg} .
 However, results were not entirely successful particularly in the
 case of Happy who never achieved "cough free" status as
-she had briefly in 2019. Finally, this motivated a more detailed
+she had briefly in 2019. Further lack of progress
+motivated a more detailed
 examination of the last known working diet which revealed
-likely contributors to overall health. Extra virgin olive oil
+likely contributors to overall health. 
+
+
+Extra virgin olive oil
 had been greatly reduced and also "other" components of the
 GNC-100 vitamin used earlier were considered as lost contributors
 as this multi-vitamin was replaced by components. Several suspects
@@ -347,7 +353,12 @@ the EVOO, see the picture.
 Olive oil is a complex natural product and a perenial suspect 
 with many questions and paradoxes.
 
-Inositol literature was also highly suggestive.
+In addition to these well considered functions, it could also act
+as a simple yet unique solver or fuel. 
+
+Inositol literature was also highly suggestive of a wide range of
+benefits but no compelling evidence exists or specific efficacy
+and endogenous production is often considere sufficient..
 
 A 2016 report found that inositol was likely safe for
 dogs and cat but lacking any benefit
@@ -363,6 +374,10 @@ proper development of Drosophila melanogaster \cite{PMC8565467}
 and an inositol hexaphosphate kinase may have an effect on
 lifespan in mice \cite{Moritoh_Oka_Yasuhara_Inositol_Hexakisphosphate_Kinase_2016}.
 ZZ
+It may also have a role to play in thyroid health especially in 
+cases of boarderline low hormone output 
+\cite{PMC8143049} as has been suspected previously to be a common
+problem in dogs. 
 
 While inositol is synthesized the overall regulation of synthesis,
 uptake, and elimination is not well uderstood
@@ -401,7 +416,7 @@ in Rocky.  After a couple weeks, it was noted that Happy would be quiet
 at time she used to cough. 
 
 
-The final diet is described in the appendix but most notably
+The final diet is described in the appendix \mjmrefapp{diettab}  but most notably
 inositol and olive oil were added to tbe already comprehsive list
 of additives including copper.
 
@@ -412,6 +427,8 @@ D which was usually mixed with EVOO.
 
 Its unfortunate that Annie and Trixie died before this diet could
 be introduced to them.
+
+Its also worth noting marrow was discontinued soon after Annie died.
 
 
 \mjmtol{
@@ -453,6 +470,12 @@ a small number of entities with easily measured positive slopes.
 In this case, a prior success was identified and the suspects
 were easy to test. 
 
+Consider the case of inositol and thyroid hormone. While inositol
+may have a signalling role, it can't replace say iodine or amino
+acids required to respond to TSH.  Tested on a general population
+of hypothyroid patients in isolation it may have no effect yet
+the underlying cause of low inositol may be a combintation
+of other nutrional issues.  
 
 
 
@@ -487,6 +510,13 @@ if it can be reduced to a cookbook formula.
 
 
 \begin{lstlisting}
+
+ 2036  ./run_linc_graph -dt-mo txt/happy3.txt 
+ 2037  texfrag -include xxxtable 
+ 2038  cp xxxtable /home/documents/latex/proj/inooil/keep/oldtable.tex
+ 2039  ./run_linc_graph -dt-mo txt/happy4.txt 
+ 2040  cp xxxtable /home/documents/latex/proj/inooil/keep/newtable.tex
+ 2041  history
 
 
 \end{lstlisting}
@@ -547,6 +577,13 @@ effectively to treat other dogs.
 
 \end{comment}
 
+\section{Happy Monthly Diet Tables}
+\label{appendix:diettab}
+The earlier months are during periods of little coughing.
+The Control month was bad coughing recently and the current
+data is regarding October 2025.
+\expandableinput{keep/oldtable.tex}
+\expandableinput{keep/newtable.tex}
 
 \section{Symbols, Abbreviations and Colloquialisms}
 
