@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{https://doi.org/10.2903/j.efsa.2016.4511}
 Products~or { EFSA Panel on Additives and Substances used in Animal Feed
@@ -22,6 +22,80 @@ Salvatore Benvenga, Maurizio Nordio, Antonio~Simone Lagan, and Vittorio Unfer.
   {https://doi.org/10.3389/fendo.2021.662582}
   {\path{doi:10.3389/fendo.2021.662582}}.
 
+\bibitem{Biolo_Greferath_Siwik_Enhanced_exercise_capacity_2009}
+Andreia Biolo, Ruth Greferath, Deborah~A. Siwik, Fuzhong Qin, Eugene Valsky,
+  Konstantina~C. Fylaktakidou, Srinivasu Pothukanuri, Carolina~D. Duarte,
+  Richard~P. Schwarz, Jean-Marie Lehn, Claude Nicolau, and Wilson~S. Colucci.
+\newblock Enhanced exercise capacity in mice with severe heart failure treated
+  with an allosteric effector of hemoglobin, {\it myo} -inositol
+  trispyrophosphate.
+\newblock {\em Proceedings of the National Academy of Sciences}, 106, 02 2009.
+\newblock \href {https://doi.org/10.1073/pnas.0812381106}
+  {\path{doi:10.1073/pnas.0812381106}}.
+
+\bibitem{Chhetri_Inositol_2019}
+Dhani~Raj Chhetri.
+\newblock Myo-inositol and its derivatives: Their emerging role in the
+  treatment of human diseases.
+\newblock {\em Frontiers in Pharmacology}, 10, 10 2019.
+\newblock \href {https://doi.org/10.3389/fphar.2019.01172}
+  {\path{doi:10.3389/fphar.2019.01172}}.
+
+\bibitem{10.1016/S0008-6363(01)00545-4}
+Michel de~Lorgeril, Patricia Salen, Fran\c{c}ois Paillard, Fran\c{c}ois
+  Laporte, Fran\c{c}ois Boucher, and Jo\"{e}l de~Leiris.
+\newblock Mediterranean diet and the french paradox: Two distinct biogeographic
+  concepts for one consolidated scientific theory on the role of nutrition in
+  coronary heart disease.
+\newblock {\em Cardiovascular Research}, 54(3):503--515, 06 2002.
+\newblock \href
+  {https://arxiv.org/abs/https://academic.oup.com/cardiovascres/article-pdf/54/3/503/752523/54-3-503.pdf}
+  {\path{arXiv:https://academic.oup.com/cardiovascres/article-pdf/54/3/503/752523/54-3-503.pdf}},
+  \href {https://doi.org/10.1016/S0008-6363(01)00545-4}
+  {\path{doi:10.1016/S0008-6363(01)00545-4}}.
+
+\bibitem{Demydenko_EkhteraeiTousi_Roderick_Inositol_2022}
+Kateryna Demydenko, Samaneh Ekhteraei-Tousi, and H.~Llewelyn Roderick.
+\newblock Inositol 1,4,5-trisphosphate receptors in cardiomyocyte physiology
+  and disease.
+\newblock {\em Philosophical Transactions of the Royal Society B: Biological
+  Sciences}, 377, 11 2022.
+\newblock \href {https://doi.org/10.1098/rstb.2021.0319}
+  {\path{doi:10.1098/rstb.2021.0319}}.
+
+\bibitem{PMID34715589}
+Meric Kocaturk, Zeki Yilmaz, Mehmet Cansev, Yesim Ozarda, Jose~Joaquin Ceron,
+  Ali Buturak, and Ismail~H Ulus.
+\newblock Choline or cdp-choline restores hypotension and improves myocardial
+  and respiratory functions in dogs with experimentally - induced endotoxic
+  shock.
+\newblock {\em Research in veterinary science}, pages 116--128, 10 2021.
+\newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/34715589/}, \href
+  {https://doi.org/10.1016/j.rvsc.2021.10.010}
+  {\path{doi:10.1016/j.rvsc.2021.10.010}}.
+
+\bibitem{LABBATE2024117287}
+Serena L'Abbate, Giuseppina Nicolini, Francesca Forini, Elisa Lepore, Sabrina
+  Marchetti, Virginia Unfer, Gianpiero Forte, and Claudia Kusmic.
+\newblock Oral supplementation of inositols effectively recovered
+  lithium-induced cardiac dysfunctions in mice.
+\newblock {\em Biomedicine \& Pharmacotherapy}, 178:117287, 2024.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S0753332224011715},
+  \href {https://doi.org/10.1016/j.biopha.2024.117287}
+  {\path{doi:10.1016/j.biopha.2024.117287}}.
+
+\bibitem{LABBATE2020105047}
+Serena L'Abbate, Giuseppina Nicolini, Francesca Forini, Sabrina Marchetti,
+  Nicole {Di Lascio}, Francesco Faita, and Claudia Kusmic.
+\newblock Myo-inositol and d-chiro-inositol oral supplementation ameliorate
+  cardiac dysfunction and remodeling in a mouse model of diet-induced obesity.
+\newblock {\em Pharmacological Research}, 159:105047, 2020.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S1043661820313554},
+  \href {https://doi.org/10.1016/j.phrs.2020.105047}
+  {\path{doi:10.1016/j.phrs.2020.105047}}.
+
 \bibitem{Laha_PortelaTorres_Desfougeres_Inositol_phosphate_kinases_2021}
 Debabrata Laha, Paloma Portela-Torres, Yann Desfoug\`{e}res, and Adolfo
   Saiardi.
@@ -29,6 +103,34 @@ Debabrata Laha, Paloma Portela-Torres, Yann Desfoug\`{e}res, and Adolfo
 \newblock {\em Advances in Biological Regulation}, 79, 01 2021.
 \newblock \href {https://doi.org/10.1016/j.jbior.2020.100782}
   {\path{doi:10.1016/j.jbior.2020.100782}}.
+
+\bibitem{Li_Fan_Zhang_Effects_Inositol_2023}
+Haijia Li, Yunlong Fan, Huanchao Zhang, and Yahui Chen.
+\newblock Effects of myo-inositol on nacl stress in tamarix ramosissima:
+  Insights from transcriptomics and metabolomics.
+\newblock {\em Forests}, 14, 08 2023.
+\newblock \href {https://doi.org/10.3390/f14081686}
+  {\path{doi:10.3390/f14081686}}.
+
+\bibitem{LU2024529}
+Yan Lu, Jun Zhao, Qiqi Xin, Rong Yuan, Yu~Miao, Manli Yang, Hui Mo, Keji Chen,
+  and Weihong Cong.
+\newblock Protective effects of oleic acid and polyphenols in extra virgin
+  olive oil on cardiovascular diseases.
+\newblock {\em Food Science and Human Wellness}, 13(2):529--540, 2024.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S2213453023001684},
+  \href {https://doi.org/10.26599/FSHW.2022.9250047}
+  {\path{doi:10.26599/FSHW.2022.9250047}}.
+
+\bibitem{PMC12035869}
+Jody Lulich, Lori Koehler, Lisa Ulrich, and Eva Furrow.
+\newblock Association of diet and calcium tartrate tetrahydrate uroliths in
+  dogs.
+\newblock {\em Journal of veterinary internal medicine}, page e70093, May-Jun
+  2025.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC12035869/}, \href
+  {https://doi.org/10.1111/jvim.70093} {\path{doi:10.1111/jvim.70093}}.
 
 \bibitem{marchywka-MJM-2024-010-0.01rg}
 Mike~J Marchywka.
@@ -41,6 +143,14 @@ Mike~J Marchywka.
   \href {https://doi.org/10.5281/zenodo.15785347}
   {\path{doi:10.5281/zenodo.15785347}}.
 
+\bibitem{Milena_Maurizio_Exploring_Cardiovascular_Benefits_2025}
+Esposito Milena and Mandal\`{a} Maurizio.
+\newblock Exploring the cardiovascular benefits of extra virgin olive oil:
+  Insights into mechanisms and therapeutic potential.
+\newblock {\em Biomolecules}, 15, 02 2025.
+\newblock \href {https://doi.org/10.3390/biom15020284}
+  {\path{doi:10.3390/biom15020284}}.
+
 \bibitem{Moritoh_Oka_Yasuhara_Inositol_Hexakisphosphate_Kinase_2016}
 Yusuke Moritoh, Masahiro Oka, Yoshitaka Yasuhara, Hiroyuki Hozumi, Kimihiko
   Iwachidow, Hiromitsu Fuse, and Ryuichi Tozawa.
@@ -49,6 +159,29 @@ Yusuke Moritoh, Masahiro Oka, Yoshitaka Yasuhara, Hiroyuki Hozumi, Kimihiko
 \newblock {\em Scientific Reports}, 6, 08 2016.
 \newblock URL: \url{https://www.nature.com/articles/srep32072}, \href
   {https://doi.org/10.1038/srep32072} {\path{doi:10.1038/srep32072}}.
+
+\bibitem{Pouleur_Menghoum_Cumps_Plasma_inositol_elevation_2024}
+Anne-Catherine Pouleur, Nassiba Menghoum, Julien Cumps, Alice Marino, Maria
+  Badii, Sibille Lejeune, Julie~Thompson Legault, Gabrielle Boucher, Damien
+  Gruson, Clotilde Roy, Sylvain Battault, Louiza Mahrouche, Val\'{e}rie
+  Pedneault-Gagnon, Daniel Charpentier, Alexandra Furtos, Julie Hussin, David
+  Rhainds, Jean-Claude Tardif, Luc Bertrand, Christine~Des Rosiers, Sandrine
+  Horman, and Christophe Beauloye.
+\newblock Plasma myo-inositol elevation in heart failure: clinical implications
+  and prognostic significance. results from the belgian and canadian
+  metabolomics in hfpef (became-hf) research project.
+\newblock {\em eBioMedicine}, 107, 09 2024.
+\newblock \href {https://doi.org/10.1016/j.ebiom.2024.105264}
+  {\path{doi:10.1016/j.ebiom.2024.105264}}.
+
+\bibitem{Qi_Deng_Wang_Inositol_Supplementation_Alleviates_2023}
+Huiyue Qi, Fei Deng, Yinghuai Wang, Hao Zhang, Yashpal~S. Kanwar, and Yingbo
+  Dai.
+\newblock Myo-inositol supplementation alleviates cisplatin-induced acute
+  kidney injury via inhibition of ferroptosis.
+\newblock {\em Cells}, 12, 01 2023.
+\newblock \href {https://doi.org/10.3390/cells12010016}
+  {\path{doi:10.3390/cells12010016}}.
 
 \bibitem{PMC8565467}
 Maria~J Rivera, Altagracia Contreras, LongThy~T Nguyen, Elizabeth~D Eldon, and
@@ -59,6 +192,19 @@ Maria~J Rivera, Altagracia Contreras, LongThy~T Nguyen, Elizabeth~D Eldon, and
 \newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC8565467/}, \href
   {https://doi.org/10.1242/bio.058833} {\path{doi:10.1242/bio.058833}}.
 
+\bibitem{https://doi.org/10.1002/jbt.23032}
+Bhoomika Sherkhane, Anil~Kumar Kalvala, Vijay~Kumar Arruri, Dharmendra~kumar
+  Khatri, and Shashi~Bala Singh.
+\newblock Renoprotective potential of myo-inositol on diabetic kidney disease:
+  Focus on the role of the pink1/parkin pathway and mitophagy receptors.
+\newblock {\em Journal of Biochemical and Molecular Toxicology}, 36(6):e23032,
+  2022.
+\newblock URL: \url{https://onlinelibrary.wiley.com/doi/abs/10.1002/jbt.23032},
+  \href
+  {https://arxiv.org/abs/https://onlinelibrary.wiley.com/doi/pdf/10.1002/jbt.23032}
+  {\path{arXiv:https://onlinelibrary.wiley.com/doi/pdf/10.1002/jbt.23032}},
+  \href {https://doi.org/10.1002/jbt.23032} {\path{doi:10.1002/jbt.23032}}.
+
 \bibitem{Su_Ko_Saiardi_Regulations_inositol_2023}
 Xue~Bessie Su, An-Li~Andrea Ko, and Adolfo Saiardi.
 \newblock Regulations of myo-inositol homeostasis: Mechanisms, implications,
@@ -66,5 +212,32 @@ Xue~Bessie Su, An-Li~Andrea Ko, and Adolfo Saiardi.
 \newblock {\em Advances in Biological Regulation}, 87, 01 2023.
 \newblock \href {https://doi.org/10.1016/j.jbior.2022.100921}
   {\path{doi:10.1016/j.jbior.2022.100921}}.
+
+\bibitem{Wang_Meng_Liu_Exogenous_inositol_ameliorates_2021}
+Shidong Wang, Fanxing Meng, Yang Liu, Silei Xia, and Rixin Wang.
+\newblock Exogenous inositol ameliorates the effects of acute ammonia toxicity
+  on intestinal oxidative status, immune response, apoptosis, and tight
+  junction barriers of great blue-spotted mudskippers (boleophthalmus
+  pectinirostris).
+\newblock {\em Comparative Biochemistry and Physiology Part C: Toxicology
+  \&amp; Pharmacology}, 240, 02 2021.
+\newblock \href {https://doi.org/10.1016/j.cbpc.2020.108911}
+  {\path{doi:10.1016/j.cbpc.2020.108911}}.
+
+\bibitem{Xie_Wang_Li_Role_inositol_2023}
+Yu-Hong Xie, Ling Wang, Ming-Liang Li, Zhi-Cheng Gong, and Jie Du.
+\newblock Role of myo-inositol in acute kidney injury induced by cisplatin.
+\newblock {\em Toxicology}, 499, 11 2023.
+\newblock \href {https://doi.org/10.1016/j.tox.2023.153653}
+  {\path{doi:10.1016/j.tox.2023.153653}}.
+
+\bibitem{PMC9151482}
+Anda~A Young, Lucia~E Rosas, Edward~S Cooper, Page~E Yaxley, and Ian~C Davis.
+\newblock Impact of cytidine diphosphocholine on oxygenation in client-owned
+  dogs with aspiration pneumonia.
+\newblock {\em Journal of veterinary internal medicine}, pages 1089--1099, 04
+  2022.
+\newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/35484990/}, \href
+  {https://doi.org/10.1111/jvim.16434} {\path{doi:10.1111/jvim.16434}}.
 
 \end{thebibliography}

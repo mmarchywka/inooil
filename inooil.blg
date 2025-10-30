@@ -11,44 +11,44 @@ Database file #1: inooilNotes.bib
 Database file #2: inooil.bib
 Database file #3: mjm_tr.bib
 Database file #4: releases.bib
-You've used 7 entries,
+You've used 24 entries,
             2943 wiz_defined-function locations,
-            705 strings with 8759 characters,
-and the built_in function-call counts, 3599 in all, are:
-= -- 393
-> -- 157
-< -- 2
-+ -- 60
-- -- 50
-* -- 241
-:= -- 543
-add.period$ -- 28
-call.type$ -- 7
-change.case$ -- 46
+            860 strings with 18324 characters,
+and the built_in function-call counts, 14002 in all, are:
+= -- 1458
+> -- 796
+< -- 5
++ -- 307
+- -- 272
+* -- 1037
+:= -- 2111
+add.period$ -- 96
+call.type$ -- 24
+change.case$ -- 208
 chr.to.int$ -- 0
-cite$ -- 7
-duplicate$ -- 94
-empty$ -- 287
-format.name$ -- 50
-if$ -- 907
+cite$ -- 24
+duplicate$ -- 319
+empty$ -- 998
+format.name$ -- 272
+if$ -- 3401
 int.to.chr$ -- 0
-int.to.str$ -- 7
-missing$ -- 6
-newline$ -- 45
-num.names$ -- 14
-pop$ -- 75
+int.to.str$ -- 24
+missing$ -- 23
+newline$ -- 147
+num.names$ -- 48
+pop$ -- 292
 preamble$ -- 1
-purify$ -- 39
+purify$ -- 184
 quote$ -- 0
-skip$ -- 253
+skip$ -- 876
 stack$ -- 0
-substring$ -- 82
-swap$ -- 36
-text.length$ -- 18
+substring$ -- 381
+swap$ -- 124
+text.length$ -- 63
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 28
+type$ -- 96
 warning$ -- 0
-while$ -- 16
-width$ -- 8
-write$ -- 99
+while$ -- 60
+width$ -- 26
+write$ -- 329
