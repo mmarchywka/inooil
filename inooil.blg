@@ -9,46 +9,51 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: inooilNotes.bib
 Database file #2: inooil.bib
+"}" immediately follows an entry type---line 1899 of file inooil.bib
+ : %CI = {American Association for Clinical Chemistry 2020. All rights reserved. For  permissions, please email: journals.permissions@oup.com.
+ :                                                                                                                                            },
+I'm skipping whatever remains of this entry
 Database file #3: mjm_tr.bib
 Database file #4: releases.bib
-You've used 24 entries,
+You've used 37 entries,
             2943 wiz_defined-function locations,
-            860 strings with 18324 characters,
-and the built_in function-call counts, 14002 in all, are:
-= -- 1458
-> -- 796
-< -- 5
-+ -- 307
-- -- 272
-* -- 1037
-:= -- 2111
-add.period$ -- 96
-call.type$ -- 24
-change.case$ -- 208
+            977 strings with 25358 characters,
+and the built_in function-call counts, 23005 in all, are:
+= -- 2348
+> -- 1431
+< -- 7
++ -- 557
+- -- 500
+* -- 1794
+:= -- 3498
+add.period$ -- 148
+call.type$ -- 37
+change.case$ -- 361
 chr.to.int$ -- 0
-cite$ -- 24
-duplicate$ -- 319
-empty$ -- 998
-format.name$ -- 272
-if$ -- 3401
+cite$ -- 37
+duplicate$ -- 488
+empty$ -- 1569
+format.name$ -- 500
+if$ -- 5493
 int.to.chr$ -- 0
-int.to.str$ -- 24
-missing$ -- 23
-newline$ -- 147
-num.names$ -- 48
-pop$ -- 292
+int.to.str$ -- 37
+missing$ -- 36
+newline$ -- 225
+num.names$ -- 74
+pop$ -- 493
 preamble$ -- 1
-purify$ -- 184
+purify$ -- 324
 quote$ -- 0
-skip$ -- 876
+skip$ -- 1341
 stack$ -- 0
-substring$ -- 381
-swap$ -- 124
-text.length$ -- 63
+substring$ -- 637
+swap$ -- 183
+text.length$ -- 97
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 96
+type$ -- 148
 warning$ -- 0
-while$ -- 60
-width$ -- 26
-write$ -- 329
+while$ -- 95
+width$ -- 39
+write$ -- 507
+(There was 1 error message)

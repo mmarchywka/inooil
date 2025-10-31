@@ -5,18 +5,18 @@
 \contentsline {section}{\numberline {I}Introduction }{2}{section*.3}%
 \contentsline {section}{\numberline {II} Discovery and Consideration of Suspects }{2}{section*.4}%
 \contentsline {section}{\numberline {III} Results }{3}{section*.5}%
-\contentsline {section}{\numberline {IV}Discussion}{3}{section*.6}%
+\contentsline {section}{\numberline {IV}Discussion}{4}{section*.6}%
 \contentsline {section}{\numberline {V}Its the Greatest Derivative Charlie Brown }{4}{section*.7}%
 \contentsline {section}{\numberline {VI}Conclusions}{4}{section*.8}%
 \contentsline {section}{\numberline {VII}Supplemental Information}{4}{section*.9}%
 \contentsline {subsection}{\numberline {VII.1}Computer Code}{4}{section*.10}%
-\contentsline {section}{\numberline {VIII}Bibliography}{4}{section*.11}%
-\contentsline {section}{\numberline {}References}{4}{section*.12}%
-\contentsline {section}{\numberline {}Acknowledgments}{6}{section*.13}%
+\contentsline {section}{\numberline {VIII}Bibliography}{5}{section*.11}%
+\contentsline {section}{\numberline {}References}{5}{section*.12}%
+\contentsline {section}{\numberline {}Acknowledgments}{7}{section*.13}%
 \appendix 
-\contentsline {section}{\numberline {A} Statement of Conflicts }{7}{section*.14}%
-\contentsline {section}{\numberline {B}About the Authors and Facility}{7}{section*.15}%
-\contentsline {section}{\numberline {C}Happy Monthly Diet Tables}{7}{section*.16}%
-\contentsline {section}{\numberline {D}Symbols, Abbreviations and Colloquialisms}{11}{section*.17}%
-\contentsline {section}{\numberline {E}General caveats and disclaimer }{11}{section*.18}%
-\contentsline {section}{\numberline {F}Citing this as a tech report or white paper }{12}{section*.19}%
+\contentsline {section}{\numberline {A} Statement of Conflicts }{8}{section*.14}%
+\contentsline {section}{\numberline {B}About the Authors and Facility}{8}{section*.15}%
+\contentsline {section}{\numberline {C}Happy Monthly Diet Tables}{8}{section*.16}%
+\contentsline {section}{\numberline {D}Symbols, Abbreviations and Colloquialisms}{12}{section*.17}%
+\contentsline {section}{\numberline {E}General caveats and disclaimer }{12}{section*.18}%
+\contentsline {section}{\numberline {F}Citing this as a tech report or white paper }{13}{section*.19}%

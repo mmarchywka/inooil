@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  29 OCT 2025 20:34
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  31 OCT 2025 18:47
  restricted system commands enabled.
  file:line:error style messages enabled.
 **inooil.tex
@@ -1268,30 +1268,52 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \openout7 = inooil.toc
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-<keep/nc100_label.png, id=143, 5018.75pt x 8030.0pt>
-File: keep/nc100_label.png Graphic file (type png)
-<use keep/nc100_label.png>
-Package luatex.def Info: keep/nc100_label.png  used on input line 451.
-(luatex.def)             Requested size: 289.01239pt x 216.75163pt.
- [2]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 478--479
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 434--435
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 478--479
+Underfull \hbox (badness 10000) in paragraph at lines 434--435
 
  []
 
-[3<./keep/nc100_label.png>] (./inooil.bbl [4] [5]) [6]
+
+Overfull \hbox (13.45999pt too wide) in paragraph at lines 436--449
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 436--449
+
+ []
+
+[2]
+<keep/nc100_label.png, id=187, 5018.75pt x 8030.0pt>
+File: keep/nc100_label.png Graphic file (type png)
+<use keep/nc100_label.png>
+Package luatex.def Info: keep/nc100_label.png  used on input line 513.
+(luatex.def)             Requested size: 289.01239pt x 216.75163pt.
+ [3<./keep/nc100_label.png>]
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 540--541
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--541
+
+ []
+
+[4] (./inooil.bbl [5] [6]) [7] Including 'mdpicomment' comment.
+\openout4 = comment.cut
+
+Straight input of comment.cut. (./comment.cut)
 Including 'mdpicomment' comment.
 \openout4 = comment.cut
- Straight input of comment.cut. (./comment.cut) Including 'mdpicomment' comment.
-\openout4 = comment.cut
- Straight input of comment.cut. (./comment.cut Excluding 'comment' comment. (./keep/oldtable.tex [7]) (./keep/newtable.tex
-[8] [9]) [10] Excluding 'comment' comment.
+ Straight input of comment.cut. (./comment.cut
+Excluding 'comment' comment. (./keep/oldtable.tex [8]) (./keep/newtable.tex
+[9] [10]) [11] Excluding 'comment' comment.
 (/home/documents/latex/share/includes/disclaimer-gaslight.tex)
-(/home/documents/latex/share/includes/disclaimer-status.tex [11])
+(/home/documents/latex/share/includes/disclaimer-status.tex [12])
 (./releases.tex)
 Overfull \hbox (10.0pt too wide) in paragraph at lines 96--101
 []$[]$ 
@@ -1300,7 +1322,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 96--101
 Excluding 'comment' comment.
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 115.
- (./inooil.bundle_checksums [12])) [13]
+ (./inooil.bundle_checksums [13])) [14]
 (./inooil.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
@@ -1311,16 +1333,16 @@ Package rerunfilecheck Info: File `inooil.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35034 strings out of 475512
- 381562,1373583 words of node,token memory allocated
- 800 words of node memory still in use:
-   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 23 attribute, 80 glue_spe
-c, 23 attribute_list, 11 pdf_action nodes
-   avail lists: 1:3,2:4402,3:1165,4:314,5:6326,6:138,7:24733,8:85,9:12927,10:29,
-11:1477
- 57001 multiletter control sequences out of 65536+600000
+ 35100 strings out of 475512
+ 596190,1373583 words of node,token memory allocated
+ 900 words of node memory still in use:
+   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 33 attribute, 80 glue_spe
+c, 33 attribute_list, 21 pdf_action nodes
+   avail lists: 2:4572,3:1164,4:304,5:14366,6:135,7:24647,8:86,9:29277,10:30,11:
+1536
+ 57039 multiletter control sequences out of 65536+600000
  80 fonts using 5517839 bytes
- 124i,12n,116p,698b,1406s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 124i,12n,116p,698b,1412s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf></usr/share/texmf
 /fonts/opentype/public/lm/lmroman8-regular.otf></usr/share/texmf/fonts/opentype/
 public/lm/lmroman9-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman9-
@@ -1331,10 +1353,10 @@ c/lm/lmroman10-bold.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
 r6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on inooil.pdf (13 pages, 18145755 bytes).
+Output written on inooil.pdf (14 pages, 18160714 bytes).
 
-PDF statistics: 390 PDF objects out of 1000 (max. 8388607)
- 341 compressed objects within 4 object streams
- 98 named destinations out of 1000 (max. 131072)
+PDF statistics: 471 PDF objects out of 1000 (max. 8388607)
+ 420 compressed objects within 5 object streams
+ 126 named destinations out of 1000 (max. 131072)
  168 words of extra memory for PDF output out of 10000 (max. 100000000)
 
