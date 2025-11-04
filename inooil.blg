@@ -22,45 +22,45 @@ Warning--empty author in DUM_Amazon_Silicon_Dioxide_
 Warning--empty journal in DUM_Amazon_Silicon_Dioxide_
 Warning--empty year in DUM_Amazon_Silicon_Dioxide_
 Warning--empty year in 250Caplets250Servings_100_Complex_
-You've used 48 entries,
+You've used 49 entries,
             2943 wiz_defined-function locations,
-            1067 strings with 30491 characters,
-and the built_in function-call counts, 29833 in all, are:
-= -- 3039
-> -- 1848
+            1074 strings with 31535 characters,
+and the built_in function-call counts, 30354 in all, are:
+= -- 3093
+> -- 1878
 < -- 9
-+ -- 719
-- -- 646
-* -- 2326
-:= -- 4512
-add.period$ -- 192
-call.type$ -- 48
-change.case$ -- 467
++ -- 731
+- -- 656
+* -- 2364
+:= -- 4590
+add.period$ -- 196
+call.type$ -- 49
+change.case$ -- 475
 chr.to.int$ -- 0
-cite$ -- 53
-duplicate$ -- 637
-empty$ -- 2048
-format.name$ -- 646
-if$ -- 7131
+cite$ -- 54
+duplicate$ -- 649
+empty$ -- 2087
+format.name$ -- 656
+if$ -- 7259
 int.to.chr$ -- 0
-int.to.str$ -- 48
-missing$ -- 47
-newline$ -- 291
-num.names$ -- 94
-pop$ -- 646
+int.to.str$ -- 49
+missing$ -- 48
+newline$ -- 297
+num.names$ -- 96
+pop$ -- 660
 preamble$ -- 1
-purify$ -- 419
+purify$ -- 426
 quote$ -- 0
-skip$ -- 1734
+skip$ -- 1766
 stack$ -- 0
-substring$ -- 854
-swap$ -- 235
-text.length$ -- 121
+substring$ -- 862
+swap$ -- 238
+text.length$ -- 123
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 192
+type$ -- 196
 warning$ -- 5
-while$ -- 122
-width$ -- 50
-write$ -- 653
+while$ -- 124
+width$ -- 51
+write$ -- 666
 (There was 1 error message)
