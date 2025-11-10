@@ -140,6 +140,17 @@ Dhani~Raj Chhetri.
 \newblock \href {https://doi.org/10.3389/fphar.2019.01172}
   {\path{doi:10.3389/fphar.2019.01172}}.
 
+\bibitem{https://doi.org/10.1111/gtc.13144}
+Laarni~Grace Corales, Hitoshi Inada, Yuji Owada, and Noriko Osumi.
+\newblock Fatty acid preference for beta-oxidation in mitochondria of murine
+  cultured astrocytes.
+\newblock {\em Genes to Cells}, 29(9):757--768, 2024.
+\newblock URL: \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/gtc.13144},
+  \href
+  {https://arxiv.org/abs/https://onlinelibrary.wiley.com/doi/pdf/10.1111/gtc.13144}
+  {\path{arXiv:https://onlinelibrary.wiley.com/doi/pdf/10.1111/gtc.13144}},
+  \href {https://doi.org/10.1111/gtc.13144} {\path{doi:10.1111/gtc.13144}}.
+
 \bibitem{CostaCarvalho_Copper_Organic_Complexes_Synthetized_2022}
 Luciana~da Costa~Carvalho.
 \newblock Copper-organic complexes synthetized electrochemically, 2022.
@@ -167,6 +178,16 @@ Kateryna Demydenko, Samaneh Ekhteraei-Tousi, and H.~Llewelyn Roderick.
   Sciences}, 377, 11 2022.
 \newblock \href {https://doi.org/10.1098/rstb.2021.0319}
   {\path{doi:10.1098/rstb.2021.0319}}.
+
+\bibitem{PMC9558542}
+Rosandra~Colpani do~Nascimento, Camilla~Menezes Souza, Tas~Silvino Bastos,
+  Gislaine~Bill Kaelle, Simone~Gisele de~Oliveira, and Ananda~Portella Flix.
+\newblock Effects of an herbal source of choline on diet digestibility and
+  palatability, blood lipid profile, liver morphology, and cardiac function in
+  dogs.
+\newblock {\em Animals : an open access journal from MDPI}, 10 2022.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC9558542/}, \href
+  {https://doi.org/10.3390/ani12192658} {\path{doi:10.3390/ani12192658}}.
 
 \bibitem{10.1210/clinem/dgad762}
 Victoria Fitz, Sandro Graca, Shruthi Mahalingaiah, Jing Liu, Lily Lai, Ali
@@ -591,6 +612,13 @@ D.~V. Scholey, D.~J. Belton, E.~J. Burton, and C.~C. Perry.
   {https://doi.org/10.1038/s41598-018-35292-9}
   {\path{doi:10.1038/s41598-018-35292-9}}.
 
+\bibitem{Sheard_Tayek_Bistrian_Plasma_choline_concentration_1986}
+NF~Sheard, JA~Tayek, BR~Bistrian, GL~Blackburn, and SH~Zeisel.
+\newblock Plasma choline concentration in humans fed parenterally.
+\newblock {\em The American Journal of Clinical Nutrition}, 43, 02 1986.
+\newblock \href {https://doi.org/10.1093/ajcn/43.2.219}
+  {\path{doi:10.1093/ajcn/43.2.219}}.
+
 \bibitem{https://doi.org/10.1002/jbt.23032}
 Bhoomika Sherkhane, Anil~Kumar Kalvala, Vijay~Kumar Arruri, Dharmendra~kumar
   Khatri, and Shashi~Bala Singh.
@@ -638,6 +666,20 @@ Ping Sun, Zhaowenbin Zhang, Fei Gao, Chen Yang, Ge~Mang, Shuai Fu, Jiawei Tian,
 \newblock \href {https://doi.org/10.1126/sciadv.adr7208}
   {\path{doi:10.1126/sciadv.adr7208}}.
 
+\bibitem{10.1016/j.gpb.2019.06.005}
+Yaping Sun, Jifeng Wang, Xiaojing Guo, Nali Zhu, Lili Niu, Xiang Ding,
+  Zhensheng Xie, Xiulan Chen, and Fuquan Yang.
+\newblock Oleic acid and eicosapentaenoic acid reverse palmitic acid-induced
+  insulin resistance in human hepg2 cells via the reactive oxygen species/jun
+  pathway.
+\newblock {\em Genomics, Proteomics \& Bioinformatics}, 19(5):754--771, 02
+  2021.
+\newblock \href
+  {https://arxiv.org/abs/https://academic.oup.com/gpb/article-pdf/19/5/754/57585845/gpb_19_5_754.pdf}
+  {\path{arXiv:https://academic.oup.com/gpb/article-pdf/19/5/754/57585845/gpb_19_5_754.pdf}},
+  \href {https://doi.org/10.1016/j.gpb.2019.06.005}
+  {\path{doi:10.1016/j.gpb.2019.06.005}}.
+
 \bibitem{Szijgyarto_Garedew_Azevedo_Influence_Inositol_Pyrophosphates_2011}
 Zsolt Szijgyarto, Assegid Garedew, Cristina Azevedo, and Adolfo Saiardi.
 \newblock Influence of inositol pyrophosphates on cellular energy dynamics.
@@ -662,6 +704,16 @@ Lilach Toker, Yuly Bersudsky, Inbar Plaschkes, Vered Chalifa-Caspi, Gerard~T
 \newblock {\em Neuropsychopharmacology}, 39, 01 2014.
 \newblock URL: \url{https://www.nature.com/articles/npp2013194}, \href
   {https://doi.org/10.1038/npp.2013.194} {\path{doi:10.1038/npp.2013.194}}.
+
+\bibitem{PMC6826123}
+Ramon Velazquez, Eric Ferreira, Sara Knowles, Chaya Fux, Alexis Rodin, Wendy
+  Winslow, and Salvatore Oddo.
+\newblock Lifelong choline supplementation ameliorates alzheimer's disease
+  pathology and associated cognitive deficits by attenuating microglia
+  activation.
+\newblock {\em Aging cell}, page e13037, 09 2019.
+\newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC6826123/}, \href
+  {https://doi.org/10.1111/acel.13037} {\path{doi:10.1111/acel.13037}}.
 
 \bibitem{vv321ukaszDudek_vv322awKochman_Dziedzic_Silicon_prevention_2024}
 Ux0141[bad~char vv=321]ukasz Dudek, WacUx0142[bad~char vv=322]aw Kochman, and
