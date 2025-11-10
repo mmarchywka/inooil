@@ -15,15 +15,15 @@
 \contentsline {subsection}{\numberline {IV.1}Picky Eating }{7}{section*.13}%
 \contentsline {subsection}{\numberline {IV.2}Its the Greatest Derivative Charlie Brown }{7}{section*.14}%
 \contentsline {section}{\numberline {V}Conclusions}{7}{section*.15}%
-\contentsline {section}{\numberline {VI}Supplemental Information}{7}{section*.16}%
-\contentsline {subsection}{\numberline {VI.1}Computer Code}{7}{section*.17}%
+\contentsline {section}{\numberline {VI}Supplemental Information}{8}{section*.16}%
+\contentsline {subsection}{\numberline {VI.1}Computer Code}{8}{section*.17}%
 \contentsline {section}{\numberline {VII}Bibliography}{8}{section*.18}%
 \contentsline {section}{\numberline {}References}{8}{section*.19}%
-\contentsline {section}{\numberline {}Acknowledgments}{11}{section*.20}%
+\contentsline {section}{\numberline {}Acknowledgments}{12}{section*.20}%
 \appendix 
-\contentsline {section}{\numberline {A} Statement of Conflicts }{12}{section*.21}%
-\contentsline {section}{\numberline {B}About the Authors and Facility}{12}{section*.22}%
-\contentsline {section}{\numberline {C}Happy Monthly Diet Tables}{12}{section*.23}%
-\contentsline {section}{\numberline {D}Symbols, Abbreviations and Colloquialisms}{16}{section*.24}%
-\contentsline {section}{\numberline {E}General caveats and disclaimer }{16}{section*.25}%
-\contentsline {section}{\numberline {F}Citing this as a tech report or white paper }{17}{section*.26}%
+\contentsline {section}{\numberline {A} Statement of Conflicts }{13}{section*.21}%
+\contentsline {section}{\numberline {B}About the Authors and Facility}{13}{section*.22}%
+\contentsline {section}{\numberline {C}Happy Monthly Diet Tables}{13}{section*.23}%
+\contentsline {section}{\numberline {D}Symbols, Abbreviations and Colloquialisms}{17}{section*.24}%
+\contentsline {section}{\numberline {E}General caveats and disclaimer }{17}{section*.25}%
+\contentsline {section}{\numberline {F}Citing this as a tech report or white paper }{18}{section*.26}%

@@ -35,6 +35,14 @@ Maria~M Adeva-Andany, Lucia Adeva-Contreras, Eva Ameneiros-Rodriguez, Natalia
 \newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/41202839/}, \href
   {https://doi.org/10.1055/a-2715-0775} {\path{doi:10.1055/a-2715-0775}}.
 
+\bibitem{Akberova2002}
+S.~I. Akberova.
+\newblock New biological properties of p-aminobenzoic acid.
+\newblock {\em Biology Bulletin of the Russian Academy of Sciences},
+  29(4):390--393, Jul 2002.
+\newblock \href {https://doi.org/10.1023/A:1016871219882}
+  {\path{doi:10.1023/A:1016871219882}}.
+
 \bibitem{PMC12443616}
 Liviu Aron, Zhen~Kai Ngian, Chenxi Qiu, Jaejoon Choi, Marianna Liang, Derek~M
   Drake, Sara~E Hamplova, Ella~K Lacey, Perle Roche, Monlan Yuan, Saba~S
@@ -44,6 +52,16 @@ Liviu Aron, Zhen~Kai Ngian, Chenxi Qiu, Jaejoon Choi, Marianna Liang, Derek~M
 \newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/40770094/}, \href
   {https://doi.org/10.1038/s41586-025-09335-x}
   {\path{doi:10.1038/s41586-025-09335-x}}.
+
+\bibitem{BENNETT19881521}
+P.C. Bennett, M.E. Melcer, D.I. Siegel, and J.P. Hassett.
+\newblock The dissolution of quartz in dilute aqueous solutions of organic
+  acids at 25c.
+\newblock {\em Geochimica et Cosmochimica Acta}, 52(6):1521--1530, 1988.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/0016703788902220},
+  \href {https://doi.org/10.1016/0016-7037(88)90222-0}
+  {\path{doi:10.1016/0016-7037(88)90222-0}}.
 
 \bibitem{PMC8143049}
 Salvatore Benvenga, Maurizio Nordio, Antonio~Simone Lagan, and Vittorio Unfer.
@@ -64,6 +82,35 @@ Andreia Biolo, Ruth Greferath, Deborah~A. Siwik, Fuzhong Qin, Eugene Valsky,
 \newblock {\em Proceedings of the National Academy of Sciences}, 106, 02 2009.
 \newblock \href {https://doi.org/10.1073/pnas.0812381106}
   {\path{doi:10.1073/pnas.0812381106}}.
+
+\bibitem{Bossert_Urban_Maceroni_hydrofluoric_acid_free_2019}
+David Bossert, Dominic~A. Urban, Mattia Maceroni, Liliane Ackermann-Hirschi,
+  Laetitia Haeni, Phattadon Yajan, Miguel Spuch-Calvar, Barbara
+  Rothen-Rutishauser, Laura Rodriguez-Lorenzo, Alke Petri-Fink, and Fabienne
+  Schwab.
+\newblock A hydrofluoric acid-free method to dissolve and quantify silica
+  nanoparticles in aqueous and solid matrices.
+\newblock {\em Scientific Reports}, 9, 05 2019.
+\newblock URL: \url{https://www.nature.com/articles/s41598-019-44128-z}, \href
+  {https://doi.org/10.1038/s41598-019-44128-z}
+  {\path{doi:10.1038/s41598-019-44128-z}}.
+
+\bibitem{CARLISLE198895}
+Edith~Muriel Carlisle.
+\newblock Silicon as a trace nutrient.
+\newblock {\em Science of The Total Environment}, 73(1):95--106, 1988.
+\newblock Organosilicon and related group IV species in the aquatic
+  environment.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/0048969788901908},
+  \href {https://doi.org/10.1016/0048-9697(88)90190-8}
+  {\path{doi:10.1016/0048-9697(88)90190-8}}.
+
+\bibitem{Carlisle_Silicon_Essential_2007}
+Edith~Muriel Carlisle.
+\newblock Silicon as an essential trace element in animal nutrition, 09 2007.
+\newblock \href {https://doi.org/10.1002/9780470513323.ch8}
+  {\path{doi:10.1002/9780470513323.ch8}}.
 
 \bibitem{CastilloQuan_Steinbaugh_FernandezCardenas_antisteatosis_response_regulated_2023}
 Jorge~Iv\'{a}n Castillo-Quan, Michael~J. Steinbaugh, Laura~Paulette
@@ -137,6 +184,16 @@ Victoria Fitz, Sandro Graca, Shruthi Mahalingaiah, Jing Liu, Lily Lai, Ali
   \href {https://doi.org/10.1210/clinem/dgad762}
   {\path{doi:10.1210/clinem/dgad762}}.
 
+\bibitem{FLYTHE2009127}
+Jennifer~E. Flythe, Jose~F. Rueda, Michael~K. Riscoe, and Suzanne Watnick.
+\newblock Silicate nephrolithiasis after ingestion of supplements containing
+  silica dioxide.
+\newblock {\em American Journal of Kidney Diseases}, 54(1):127--130, 2009.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S0272638608016132},
+  \href {https://doi.org/10.1053/j.ajkd.2008.10.042}
+  {\path{doi:10.1053/j.ajkd.2008.10.042}}.
+
 \bibitem{Gilabert_Energized_mitochondria_increase_2001}
 J.~A. Gilabert.
 \newblock Energized mitochondria increase the dynamic range over which inositol
@@ -195,6 +252,16 @@ Che-Chia Hsu, Xian Zhang, Guihua Wang, Weina Zhang, Zhen Cai, Bo-Syong Pan,
 \newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/34547240/}, \href
   {https://doi.org/10.1016/j.molcel.2021.08.025}
   {\path{doi:10.1016/j.molcel.2021.08.025}}.
+
+\bibitem{JACOBS1964213}
+Richard~L. Jacobs.
+\newblock Role of p-aminobenzoic acid in plasmodium berghei infection in the
+  mouse.
+\newblock {\em Experimental Parasitology}, 15(3):213--225, 1964.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/0014489464900177},
+  \href {https://doi.org/10.1016/0014-4894(64)90017-7}
+  {\path{doi:10.1016/0014-4894(64)90017-7}}.
 
 \bibitem{Jawad_Oh_Choi_inositol_improves_developmental_2024}
 Ali Jawad, Dongjin Oh, Hyerin Choi, Mirae Kim, Jaehyung Ham, Byoung~Chol Oh,
@@ -345,6 +412,25 @@ Jody Lulich, Lori Koehler, Lisa Ulrich, and Eva Furrow.
 \newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC12035869/}, \href
   {https://doi.org/10.1111/jvim.70093} {\path{doi:10.1111/jvim.70093}}.
 
+\bibitem{marchywka-MJM-2022-013-0.10}
+Mike~J Marchywka.
+\newblock Clinical and microbiological improvement in dog after metal and
+  benzoate containing supplement mix.
+\newblock techreport MJM-2022-013, not institutionalized, independent, 44
+  Crosscreek Trail, Jasper GA 30143, 11 2022.
+\newblock URL: \url{https://zenodo.org/record/7293723#.Y2WaP3XMLCI}, \href
+  {https://doi.org/10.5281/zenodo.7293723} {\path{doi:10.5281/zenodo.7293723}}.
+
+\bibitem{marchywka-MJM-2023-008-0.30rg}
+Mike~J Marchywka.
+\newblock Brain microbiome : Make your garden grow? feed your head.
+\newblock techreport MJM-2023-008, not institutionalized, independent, 44
+  Crosscreek Trail, Jasper GA 30143, 10 2023.
+\newblock URL:
+  \url{https://www.researchgate.net/publication/374946157_potuse-2023-10-24-v3},
+  \href {https://doi.org/10.5281/zenodo.10038912}
+  {\path{doi:10.5281/zenodo.10038912}}.
+
 \bibitem{marchywka-MJM-2024-010-0.01rg}
 Mike~J Marchywka.
 \newblock Copper supplementation in dogs: Listen to her heart everybody's got a
@@ -355,6 +441,13 @@ Mike~J Marchywka.
   \url{https://www.researchgate.net/publication/393240388_Copper_Supplementation_in_Dogs},
   \href {https://doi.org/10.5281/zenodo.15785347}
   {\path{doi:10.5281/zenodo.15785347}}.
+
+\bibitem{Martin2013}
+Keith~R. Martin.
+\newblock {\em Silicon: The Health Benefits of a Metalloid}, pages 451--473.
+\newblock Springer Netherlands, Dordrecht, 2013.
+\newblock \href {https://doi.org/10.1007/978-94-007-7500-8_14}
+  {\path{doi:10.1007/978-94-007-7500-8_14}}.
 
 \bibitem{Milena_Maurizio_Exploring_Cardiovascular_Benefits_2025}
 Esposito Milena and Mandal\`{a} Maurizio.
@@ -373,6 +466,18 @@ Yusuke Moritoh, Masahiro Oka, Yoshitaka Yasuhara, Hiroyuki Hozumi, Kimihiko
 \newblock URL: \url{https://www.nature.com/articles/srep32072}, \href
   {https://doi.org/10.1038/srep32072} {\path{doi:10.1038/srep32072}}.
 
+\bibitem{NIELSEN2014379}
+Forrest~H. Nielsen.
+\newblock Update on the possible nutritional importance of silicon.
+\newblock {\em Journal of Trace Elements in Medicine and Biology},
+  28(4):379--382, 2014.
+\newblock ISTERH X CONFERENCE (TOKYO): TRACE ELEMENT RESEARCH IN HEALTH AND
+  DISEASE.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S0946672X14001291},
+  \href {https://doi.org/10.1016/j.jtemb.2014.06.024}
+  {\path{doi:10.1016/j.jtemb.2014.06.024}}.
+
 \bibitem{PMC7382191}
 Kim~C Nogoy, Hyoun~Ju Kim, Yehyun Lee, Yan Zhang, Jia Yu, Dong~Hoon Lee,
   Xiang~Zi Li, Stephen~B Smith, Hyun~A Seong, and Seong~Ho Choi.
@@ -381,6 +486,16 @@ Kim~C Nogoy, Hyoun~Ju Kim, Yehyun Lee, Yan Zhang, Jia Yu, Dong~Hoon Lee,
 \newblock {\em Food science \& nutrition}, pages 3617--3625, 05 2020.
 \newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC7382191/}, \href
   {https://doi.org/10.1002/fsn3.1644} {\path{doi:10.1002/fsn3.1644}}.
+
+\bibitem{Osborne_Jacob_Lulich_Canine_Silica_Urolithiasis_1999}
+Carl~A. Osborne, Frederic Jacob, Jody~P. Lulich, Matthew~J. Hansen, Chalermpol
+  Lekcharoensul, Lisa~K. Ulrich, Lori~A. Koehler, Kathleen~A. Bird, and
+  Laura~L. Swanson.
+\newblock Canine silica urolithiasis.
+\newblock {\em Veterinary Clinics of North America: Small Animal Practice}, 29,
+  01 1999.
+\newblock \href {https://doi.org/10.1016/s0195-5616(99)50012-0}
+  {\path{doi:10.1016/s0195-5616(99)50012-0}}.
 
 \bibitem{PMC7793226}
 Christopher Papandreou, Mnica Bull, Pablo Hernndez-Alonso, Miguel Ruiz-Canela,
@@ -409,6 +524,17 @@ Anne-Catherine Pouleur, Nassiba Menghoum, Julien Cumps, Alice Marino, Maria
 \newblock \href {https://doi.org/10.1016/j.ebiom.2024.105264}
   {\path{doi:10.1016/j.ebiom.2024.105264}}.
 
+\bibitem{https://doi.org/10.1155/2013/316783}
+Charles~T. Price, Kenneth~J. Koval, and Joshua~R. Langford.
+\newblock Silicon: A review of its potential role in the prevention and
+  treatment of postmenopausal osteoporosis.
+\newblock {\em International Journal of Endocrinology}, 2013(1):316783, 2013.
+\newblock URL:
+  \url{https://onlinelibrary.wiley.com/doi/abs/10.1155/2013/316783}, \href
+  {https://arxiv.org/abs/https://onlinelibrary.wiley.com/doi/pdf/10.1155/2013/316783}
+  {\path{arXiv:https://onlinelibrary.wiley.com/doi/pdf/10.1155/2013/316783}},
+  \href {https://doi.org/10.1155/2013/316783} {\path{doi:10.1155/2013/316783}}.
+
 \bibitem{Qi_Deng_Wang_Inositol_Supplementation_Alleviates_2023}
 Huiyue Qi, Fei Deng, Yinghuai Wang, Hao Zhang, Yashpal~S. Kanwar, and Yingbo
   Dai.
@@ -417,6 +543,14 @@ Huiyue Qi, Fei Deng, Yinghuai Wang, Hao Zhang, Yashpal~S. Kanwar, and Yingbo
 \newblock {\em Cells}, 12, 01 2023.
 \newblock \href {https://doi.org/10.3390/cells12010016}
   {\path{doi:10.3390/cells12010016}}.
+
+\bibitem{Urinary_calculi_small_Wenkel_Berg_1998}
+Wenkel R, Berg W, and Prange H.
+\newblock [urinary calculi in small and other animals--a retrospective study of
+  the years 1980-1989].
+\newblock {\em DTW. Deutsche Tierarztliche Wochenschrift}, 105:182--186, 05
+  1998.
+\newblock URL: \url{https://europepmc.org/article/med/9646551}.
 
 \bibitem{PMC8565467}
 Maria~J Rivera, Altagracia Contreras, LongThy~T Nguyen, Elizabeth~D Eldon, and
@@ -427,6 +561,18 @@ Maria~J Rivera, Altagracia Contreras, LongThy~T Nguyen, Elizabeth~D Eldon, and
 \newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC8565467/}, \href
   {https://doi.org/10.1242/bio.058833} {\path{doi:10.1242/bio.058833}}.
 
+\bibitem{doi:10.1177/1535370221997072}
+Mariangela Rondanelli, Milena~A Faliva, Gabriella Peroni, Clara Gasparri,
+  Simone Perna, Antonella Riva, Giovanna Petrangolini, and Alice Tartara.
+\newblock Silicon: A neglected micronutrient essential for bone health.
+\newblock {\em Experimental Biology and Medicine}, 246(13):1500--1511, 2021.
+\newblock PMID: 33715532.
+\newblock \href
+  {https://arxiv.org/abs/https://doi.org/10.1177/1535370221997072}
+  {\path{arXiv:https://doi.org/10.1177/1535370221997072}}, \href
+  {https://doi.org/10.1177/1535370221997072}
+  {\path{doi:10.1177/1535370221997072}}.
+
 \bibitem{ROY20082967}
 Joey Roy and Serge Carrier.
 \newblock Acute hepatitis associated with treatment of peyronie's disease with
@@ -436,6 +582,14 @@ Joey Roy and Serge Carrier.
   \url{https://www.sciencedirect.com/science/article/pii/S174360951531897X},
   \href {https://doi.org/10.1111/j.1743-6109.2008.00918.x}
   {\path{doi:10.1111/j.1743-6109.2008.00918.x}}.
+
+\bibitem{Scholey_Belton_Burton_Bioavailability_novel_2018}
+D.~V. Scholey, D.~J. Belton, E.~J. Burton, and C.~C. Perry.
+\newblock Bioavailability of a novel form of silicon supplement.
+\newblock {\em Scientific Reports}, 8, 11 2018.
+\newblock URL: \url{https://www.nature.com/articles/s41598-018-35292-9}, \href
+  {https://doi.org/10.1038/s41598-018-35292-9}
+  {\path{doi:10.1038/s41598-018-35292-9}}.
 
 \bibitem{https://doi.org/10.1002/jbt.23032}
 Bhoomika Sherkhane, Anil~Kumar Kalvala, Vijay~Kumar Arruri, Dharmendra~kumar
@@ -458,6 +612,15 @@ Paula Silva, Mar\'{i}a Rodr\'{i}guez-P\'{e}rez, and Emma Burgos-Ramos.
 \newblock \href {https://doi.org/10.3390/antiox12101843}
   {\path{doi:10.3390/antiox12101843}}.
 
+\bibitem{Sripanyakorn_Jugdaohsingh_Dissayabutr_comparative_absorption_2009}
+Supannee Sripanyakorn, Ravin Jugdaohsingh, Wacharee Dissayabutr, Simon H.~C.
+  Anderson, Richard P.~H. Thompson, and Jonathan~J. Powell.
+\newblock The comparative absorption of silicon from different foods and food
+  supplements.
+\newblock {\em British Journal of Nutrition}, 102, 09 2009.
+\newblock \href {https://doi.org/10.1017/s0007114509311757}
+  {\path{doi:10.1017/s0007114509311757}}.
+
 \bibitem{Su_Ko_Saiardi_Regulations_inositol_2023}
 Xue~Bessie Su, An-Li~Andrea Ko, and Adolfo Saiardi.
 \newblock Regulations of myo-inositol homeostasis: Mechanisms, implications,
@@ -465,25 +628,6 @@ Xue~Bessie Su, An-Li~Andrea Ko, and Adolfo Saiardi.
 \newblock {\em Advances in Biological Regulation}, 87, 01 2023.
 \newblock \href {https://doi.org/10.1016/j.jbior.2022.100921}
   {\path{doi:10.1016/j.jbior.2022.100921}}.
-
-\bibitem{doi:10.1161/CIRCULATIONAHA.124.070563}
-Bo~Sun, Mingke Ni, Yanhui Li, Zhenpeng Song, Hui Wang, Hai-Lei Zhu, Jinhong
-  Wei, Darrell Belke, Shitian Cai, Wenting Guo, Jinjing Yao, Shanshan Tian,
-  John~Paul Estillore, Ruiwu Wang, Mads~Toft Sondergaard, Malene Brohus,
-  Palle~Duun Rohde, Yongxin Mu, Alexander Vallmitjana, Raul Benitez, Leif
-  Hove-Madsen, Michael~Toft Overgaard, Glenn~I. Fishman, Ju~Chen, Shubhayan
-  Sanatani, Arthur~A.M. Wilde, Michael Fill, Josefina Ramos-Franco, Mette
-  Nyegaard, and S.R.~Wayne Chen.
-\newblock Inositol 1,4,5-trisphosphate receptor 1 gain-of-function increases
-  the risk for cardiac arrhythmias in mice and humans.
-\newblock {\em Circulation}, 151(12):847--862, 2025.
-\newblock URL:
-  \url{https://www.ahajournals.org/doi/abs/10.1161/CIRCULATIONAHA.124.070563},
-  \href
-  {https://arxiv.org/abs/https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.124.070563}
-  {\path{arXiv:https://www.ahajournals.org/doi/pdf/10.1161/CIRCULATIONAHA.124.070563}},
-  \href {https://doi.org/10.1161/CIRCULATIONAHA.124.070563}
-  {\path{doi:10.1161/CIRCULATIONAHA.124.070563}}.
 
 \bibitem{Sun_Zhang_Gao_Silicate_based_therapy_2025}
 Ping Sun, Zhaowenbin Zhang, Fei Gao, Chen Yang, Ge~Mang, Shuai Fu, Jiawei Tian,

@@ -13,7 +13,9 @@ Warning--I'm ignoring doi:10.1021/cn5001149's extra "url" field
 --line 2416 of file inooil.bib
 Warning--entry type for "CostaCarvalho_Copper_Organic_Complexes_Synthetized_2022" isn't style-file defined
 --line 2868 of file inooil.bib
-"}" immediately follows an entry type---line 3412 of file inooil.bib
+Warning--entry type for "Carlisle_Silicon_Essential_2007" isn't style-file defined
+--line 3337 of file inooil.bib
+"}" immediately follows an entry type---line 4039 of file inooil.bib
  : %CI = {American Association for Clinical Chemistry 2020. All rights reserved. For  permissions, please email: journals.permissions@oup.com.
  :                                                                                                                                            },
 I'm skipping whatever remains of this entry
@@ -25,45 +27,46 @@ Warning--empty author in DUM_Amazon_Silicon_Dioxide_
 Warning--empty journal in DUM_Amazon_Silicon_Dioxide_
 Warning--empty year in DUM_Amazon_Silicon_Dioxide_
 Warning--empty year in 250Caplets250Servings_100_Complex_
-You've used 59 entries,
+Warning--can't use both author and editor fields in Martin2013
+You've used 75 entries,
             2943 wiz_defined-function locations,
-            1155 strings with 37340 characters,
-and the built_in function-call counts, 36652 in all, are:
-= -- 3715
-> -- 2316
-< -- 10
-+ -- 899
-- -- 812
-* -- 2875
-:= -- 5563
-add.period$ -- 235
-call.type$ -- 59
-change.case$ -- 583
+            1292 strings with 42052 characters,
+and the built_in function-call counts, 44238 in all, are:
+= -- 4583
+> -- 2534
+< -- 13
++ -- 990
+- -- 872
+* -- 3349
+:= -- 6610
+add.period$ -- 301
+call.type$ -- 75
+change.case$ -- 660
 chr.to.int$ -- 0
-cite$ -- 64
-duplicate$ -- 766
-empty$ -- 2489
-format.name$ -- 812
-if$ -- 8728
+cite$ -- 81
+duplicate$ -- 961
+empty$ -- 3200
+format.name$ -- 872
+if$ -- 10716
 int.to.chr$ -- 0
-int.to.str$ -- 59
-missing$ -- 57
-newline$ -- 356
-num.names$ -- 116
-pop$ -- 805
+int.to.str$ -- 75
+missing$ -- 71
+newline$ -- 454
+num.names$ -- 148
+pop$ -- 943
 preamble$ -- 1
-purify$ -- 524
+purify$ -- 586
 quote$ -- 0
-skip$ -- 2114
+skip$ -- 2664
 stack$ -- 0
-substring$ -- 1022
-swap$ -- 281
-text.length$ -- 144
+substring$ -- 1357
+swap$ -- 339
+text.length$ -- 189
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 236
-warning$ -- 5
-while$ -- 149
-width$ -- 61
-write$ -- 796
+type$ -- 298
+warning$ -- 6
+while$ -- 193
+width$ -- 77
+write$ -- 1020
 (There was 1 error message)
