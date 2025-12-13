@@ -231,6 +231,15 @@ Jennifer~E. Flythe, Jose~F. Rueda, Michael~K. Riscoe, and Suzanne Watnick.
   \href {https://doi.org/10.1053/j.ajkd.2008.10.042}
   {\path{doi:10.1053/j.ajkd.2008.10.042}}.
 
+\bibitem{FOLTS19781209}
+John~D. Folts, Austin~L. Shug, Joseph~R. Koke, and Neville Bittar.
+\newblock Protection of the ischemic dog myocardium with carnitine.
+\newblock {\em The American Journal of Cardiology}, 41(7):1209--1214, 1978.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/0002914978908779},
+  \href {https://doi.org/10.1016/0002-9149(78)90877-9}
+  {\path{doi:10.1016/0002-9149(78)90877-9}}.
+
 \bibitem{PMC9866012}
 Anna Fosch, Maria Rodriguez-Garcia, Cristina Miralpeix, Sebastian Zagmutt,
   Maite Larranaga, Ana~Cristina Reguera, Jesus Garcia-Chica, Laura Herrero,
@@ -318,6 +327,14 @@ Ali Jawad, Dongjin Oh, Hyerin Choi, Mirae Kim, Jaehyung Ham, Byoung~Chol Oh,
 \newblock {\em Frontiers in Veterinary Science}, 11, 12 2024.
 \newblock \href {https://doi.org/10.3389/fvets.2024.1475329}
   {\path{doi:10.3389/fvets.2024.1475329}}.
+
+\bibitem{PMID2019534}
+B~W Keene, D~P Panciera, C~E Atkins, V~Regitz, M~J Schmidt, and A~L Shug.
+\newblock Myocardial l-carnitine deficiency in a family of dogs with dilated
+  cardiomyopathy.
+\newblock {\em Journal of the American Veterinary Medical Association}, pages
+  647--50, Feb 1991.
+\newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/2019534/}.
 
 \bibitem{Khilji_BintiMohdSafee_Pathak_Facile_Manufacture_Oxide_2022}
 Irshad~Ahamad Khilji, Siti~Nadiah Binti Mohd~Safee, Sunil Pathak,
@@ -513,6 +530,19 @@ Yusuke Moritoh, Masahiro Oka, Yoshitaka Yasuhara, Hiroyuki Hozumi, Kimihiko
 \newblock URL: \url{https://www.nature.com/articles/srep32072}, \href
   {https://doi.org/10.1038/srep32072} {\path{doi:10.1038/srep32072}}.
 
+\bibitem{https://doi.org/10.1111/j.1939-165X.2007.tb00199.x}
+Stephan Neumann, Heike Welling, Sibylle Thuere, and Franz-Josef Kaup.
+\newblock Plasma l-carnitine concentration in healthy dogs and dogs with
+  hepatopathy.
+\newblock {\em Veterinary Clinical Pathology}, 36(2):137--140, 2007.
+\newblock URL:
+  \url{https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1939-165X.2007.tb00199.x},
+  \href
+  {https://arxiv.org/abs/https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1939-165X.2007.tb00199.x}
+  {\path{arXiv:https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1939-165X.2007.tb00199.x}},
+  \href {https://doi.org/10.1111/j.1939-165X.2007.tb00199.x}
+  {\path{doi:10.1111/j.1939-165X.2007.tb00199.x}}.
+
 \bibitem{NIELSEN2014379}
 Forrest~H. Nielsen.
 \newblock Update on the possible nutritional importance of silicon.
@@ -608,6 +638,16 @@ Maria~J Rivera, Altagracia Contreras, LongThy~T Nguyen, Elizabeth~D Eldon, and
 \newblock URL: \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC8565467/}, \href
   {https://doi.org/10.1242/bio.058833} {\path{doi:10.1242/bio.058833}}.
 
+\bibitem{Rodriguez_Bruyns_Askanazi_Carnitine_metabolism_during_fasting_1986}
+Jorge Rodriguez, Jean Bruyns, Jeffrey Askanazi, W.~DiMauro, James Bordley,
+  David~H. Elwyn, and John~W. Kinney.
+\newblock Carnitine metabolism during fasting in dogs.
+\newblock {\em Surgery}, 99, 06 1986.
+\newblock URL:
+  \url{https://www.surgjournal.com/article/0039-6060(86)90292-8/abstract},
+  \href {https://doi.org/10.5555/uri:pii:0039606086902928}
+  {\path{doi:10.5555/uri:pii:0039606086902928}}.
+
 \bibitem{doi:10.1177/1535370221997072}
 Mariangela Rondanelli, Milena~A Faliva, Gabriella Peroni, Clara Gasparri,
   Simone Perna, Antonella Riva, Giovanna Petrangolini, and Alice Tartara.
@@ -665,6 +705,15 @@ Paula Silva, Mar\'{i}a Rodr\'{i}guez-P\'{e}rez, and Emma Burgos-Ramos.
 \newblock {\em Antioxidants}, 12, 10 2023.
 \newblock \href {https://doi.org/10.3390/antiox12101843}
   {\path{doi:10.3390/antiox12101843}}.
+
+\bibitem{Söder2019}
+Josefin S{\"o}der, Katja H{\"o}glund, Johan Dicksved, Ragnvi Hagman, Hanna
+  Eriksson~R{\"o}hnisch, Ali~Ata Moazzami, and Sara Wernersson.
+\newblock Plasma metabolomics reveals lower carnitine concentrations in
+  overweight labrador retriever dogs.
+\newblock {\em Acta Veterinaria Scandinavica}, 61(1):10, Feb 2019.
+\newblock \href {https://doi.org/10.1186/s13028-019-0446-4}
+  {\path{doi:10.1186/s13028-019-0446-4}}.
 
 \bibitem{Sripanyakorn_Jugdaohsingh_Dissayabutr_comparative_absorption_2009}
 Supannee Sripanyakorn, Ravin Jugdaohsingh, Wacharee Dissayabutr, Simon H.~C.
@@ -730,6 +779,15 @@ Lilach Toker, Yuly Bersudsky, Inbar Plaschkes, Vered Chalifa-Caspi, Gerard~T
 \newblock {\em Neuropsychopharmacology}, 39, 01 2014.
 \newblock URL: \url{https://www.nature.com/articles/npp2013194}, \href
   {https://doi.org/10.1038/npp.2013.194} {\path{doi:10.1038/npp.2013.194}}.
+
+\bibitem{Varney_Fowler_Gilbert_Utilisation_supplemented_2017}
+Jessica~L. Varney, J.~W. Fowler, W.~C. Gilbert, and C.~N. Coon.
+\newblock Utilisation of supplemented<scp>l</scp>-carnitine for fuel
+  efficiency, as an antioxidant, and for muscle recovery in labrador
+  retrievers.
+\newblock {\em Journal of Nutritional Science}, 6, 2017.
+\newblock \href {https://doi.org/10.1017/jns.2017.4}
+  {\path{doi:10.1017/jns.2017.4}}.
 
 \bibitem{PMC6826123}
 Ramon Velazquez, Eric Ferreira, Sara Knowles, Chaya Fux, Alexis Rodin, Wendy

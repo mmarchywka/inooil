@@ -328,6 +328,8 @@ INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 OUTPUT inooil.toc
 INPUT ./keep/nc100_label.png
 INPUT ./keep/nc100_label.png
+INPUT ./keep/lecithin.png
+INPUT ./keep/lecithin.png
 INPUT /home/marchywka/.texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
 INPUT /home/marchywka/.texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmmono9-regular.luc
 INPUT ./inooil.bbl
@@ -344,9 +346,10 @@ OUTPUT comment.cut
 INPUT ./comment.cut
 OUTPUT comment.cut
 INPUT ./comment.cut
-INPUT ./keep/oldtable.tex
+INPUT ./keep/oldtablelec.tex
 INPUT /home/marchywka/.texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmroman5-regular.luc
-INPUT ./keep/newtable.tex
+INPUT ./keep/newtablelec.tex
+INPUT ./keep/lectablelec.tex
 INPUT /home/documents/latex/share/includes/disclaimer-gaslight.tex
 INPUT /home/documents/latex/share/includes/disclaimer-status.tex
 INPUT ./releases.tex

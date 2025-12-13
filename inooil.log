@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  26 NOV 2025 19:07
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  13 DEC 2025 18:20
  restricted system commands enabled.
  file:line:error style messages enabled.
 **inooil.tex
@@ -1273,92 +1273,98 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 339--345
  []
 
 [2]
-<keep/nc100_label.png, id=168, 5018.75pt x 8030.0pt>
+<keep/nc100_label.png, id=173, 5018.75pt x 8030.0pt>
 File: keep/nc100_label.png Graphic file (type png)
 <use keep/nc100_label.png>
 Package luatex.def Info: keep/nc100_label.png  used on input line 375.
 (luatex.def)             Requested size: 289.01239pt x 216.75163pt.
-
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 409--409
-[][] 
- []
-
-[3<./keep/nc100_label.png>]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 500--500
+<keep/lecithin.png, id=174, 2308.625pt x 3412.75pt>
+File: keep/lecithin.png Graphic file (type png)
+<use keep/lecithin.png>
+Package luatex.def Info: keep/lecithin.png  used on input line 377.
+(luatex.def)             Requested size: 289.07059pt x 216.78532pt.
+ [3<./keep/nc100_label.png><./keep/lecithin.png>]
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 414--414
 [][] 
  []
 
 [4]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 588--588
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 505--505
 [][] 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 627--627
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 593--593
+[][] 
+ []
+
+
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 632--632
 [][] 
  []
 
 [5]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 723--723
-[][] 
- []
-
-
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 797--797
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 728--728
 [][] 
  []
 
 [6]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 886--886
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 825--825
 [][] 
  []
 
-[7] (./inooil.bbl [8]
+[7]
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 914--914
+[][] 
+ []
+
+[8] (./inooil.bbl [9]
 Underfull \hbox (badness 2698) in paragraph at lines 163--167
 []\TU/lmr/m/n/9 Lu-ciana da Costa Car-valho.  Copper-organic com-plexes syn-thet
 ized elec-tro-chem-i-cally, 2022.  [][]$\TU/lmtt/m/n/9 doi:10.1007/
  []
 
-[9] [10] [11] [12]) [13] Including 'mdpicomment' comment.
+[10] [11] [12] [13]) [14] Including 'mdpicomment' comment.
 \openout4 = comment.cut
 
 Straight input of comment.cut. (./comment.cut)
 Including 'mdpicomment' comment.
 \openout4 = comment.cut
  Straight input of comment.cut. (./comment.cut
-Excluding 'comment' comment. (./keep/oldtable.tex [14]) (./keep/newtable.tex
-[15] [16]) [17] Excluding 'comment' comment.
+Excluding 'comment' comment. (./keep/oldtablelec.tex [15])
+(./keep/newtablelec.tex [16] [17]) (./keep/lectablelec.tex [18] [19]) [20]
+Excluding 'comment' comment.
 (/home/documents/latex/share/includes/disclaimer-gaslight.tex)
-(/home/documents/latex/share/includes/disclaimer-status.tex [18])
+(/home/documents/latex/share/includes/disclaimer-status.tex [21])
 (./releases.tex)
-Overfull \hbox (10.0pt too wide) in paragraph at lines 96--101
+Overfull \hbox (10.0pt too wide) in paragraph at lines 97--102
 []$[]$ 
  []
 
 Excluding 'comment' comment.
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 115.
- (./inooil.bundle_checksums [19])) [20]
+nput line 116.
+ (./inooil.bundle_checksums [22])) [23]
 (./inooil.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `inooil.out' has not changed.
-(rerunfilecheck)             Checksum: 6AF6E37FE34D96F90FCC8FCC36A466A1;4680.
+(rerunfilecheck)             Checksum: 3283175FFD348BDE972B429EDCE68613;4789.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35311 strings out of 475512
- 596179,1373583 words of node,token memory allocated
- 1120 words of node memory still in use:
-   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 55 attribute, 80 glue_spe
-c, 55 attribute_list, 43 pdf_action nodes
-   avail lists: 1:1,2:5004,3:1300,4:347,5:15794,6:135,7:24559,8:150,9:32151,10:3
-0,11:1790
- 57189 multiletter control sequences out of 65536+600000
+ 35368 strings out of 475512
+ 596195,1373583 words of node,token memory allocated
+ 1160 words of node memory still in use:
+   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 59 attribute, 80 glue_spe
+c, 59 attribute_list, 47 pdf_action nodes
+   avail lists: 2:4808,3:1290,4:343,5:15145,6:139,7:24818,8:150,9:30849,10:30,11
+:1785
+ 57221 multiletter control sequences out of 65536+600000
  81 fonts using 5643927 bytes
- 124i,12n,116p,699b,1408s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 124i,12n,116p,699b,1440s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf></usr/share/texmf
 /fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/
 public/lm/lmroman9-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman8-
@@ -1373,10 +1379,10 @@ live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy7.pfb>
-Output written on inooil.pdf (20 pages, 18239315 bytes).
+Output written on inooil.pdf (23 pages, 24078410 bytes).
 
-PDF statistics: 758 PDF objects out of 1000 (max. 8388607)
- 693 compressed objects within 7 object streams
- 187 named destinations out of 1000 (max. 131072)
- 232 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 812 PDF objects out of 1000 (max. 8388607)
+ 742 compressed objects within 8 object streams
+ 203 named destinations out of 1000 (max. 131072)
+ 240 words of extra memory for PDF output out of 10000 (max. 100000000)
 
