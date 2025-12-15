@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  13 DEC 2025 18:20
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  14 DEC 2025 20:55
  restricted system commands enabled.
  file:line:error style messages enabled.
 **inooil.tex
@@ -1252,12 +1252,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 310--311
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 336
+LaTeX Font Info:    Trying to load font information for U+msa on input line 346
 .
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 336
+LaTeX Font Info:    Trying to load font information for U+msb on input line 346
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1268,63 +1268,63 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 \openout7 = inooil.toc
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 339--345
+Overfull \hbox (10.0pt too wide) in paragraph at lines 349--355
 []$[]$ 
  []
 
 [2]
-<keep/nc100_label.png, id=173, 5018.75pt x 8030.0pt>
+<keep/nc100_label.png, id=184, 5018.75pt x 8030.0pt>
 File: keep/nc100_label.png Graphic file (type png)
 <use keep/nc100_label.png>
-Package luatex.def Info: keep/nc100_label.png  used on input line 375.
+Package luatex.def Info: keep/nc100_label.png  used on input line 385.
 (luatex.def)             Requested size: 289.01239pt x 216.75163pt.
-<keep/lecithin.png, id=174, 2308.625pt x 3412.75pt>
+<keep/lecithin.png, id=185, 2308.625pt x 3412.75pt>
 File: keep/lecithin.png Graphic file (type png)
 <use keep/lecithin.png>
-Package luatex.def Info: keep/lecithin.png  used on input line 377.
+Package luatex.def Info: keep/lecithin.png  used on input line 387.
 (luatex.def)             Requested size: 289.07059pt x 216.78532pt.
  [3<./keep/nc100_label.png><./keep/lecithin.png>]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 414--414
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 428--428
 [][] 
  []
 
 [4]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 505--505
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 534--534
 [][] 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 593--593
-[][] 
- []
-
-
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 632--632
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 622--622
 [][] 
  []
 
 [5]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 728--728
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 661--661
 [][] 
  []
 
-[6]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 825--825
+
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 757--757
 [][] 
  []
 
-[7]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 914--914
+[6] [7]
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 885--885
 [][] 
  []
 
-[8] (./inooil.bbl [9]
-Underfull \hbox (badness 2698) in paragraph at lines 163--167
+
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 974--974
+[][] 
+ []
+
+[8] [9] (./inooil.bbl [10]
+Underfull \hbox (badness 2698) in paragraph at lines 171--175
 []\TU/lmr/m/n/9 Lu-ciana da Costa Car-valho.  Copper-organic com-plexes syn-thet
 ized elec-tro-chem-i-cally, 2022.  [][]$\TU/lmtt/m/n/9 doi:10.1007/
  []
 
-[10] [11] [12] [13]) [14] Including 'mdpicomment' comment.
+[11] [12] [13]) [14] Including 'mdpicomment' comment.
 \openout4 = comment.cut
 
 Straight input of comment.cut. (./comment.cut)
@@ -1337,13 +1337,13 @@ Excluding 'comment' comment.
 (/home/documents/latex/share/includes/disclaimer-gaslight.tex)
 (/home/documents/latex/share/includes/disclaimer-status.tex [21])
 (./releases.tex)
-Overfull \hbox (10.0pt too wide) in paragraph at lines 97--102
+Overfull \hbox (10.0pt too wide) in paragraph at lines 106--111
 []$[]$ 
  []
 
 Excluding 'comment' comment.
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 116.
+nput line 125.
  (./inooil.bundle_checksums [22])) [23]
 (./inooil.aux)
  ***********
@@ -1351,20 +1351,20 @@ LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `inooil.out' has not changed.
-(rerunfilecheck)             Checksum: 3283175FFD348BDE972B429EDCE68613;4789.
+(rerunfilecheck)             Checksum: F6DE33B6A9DD129DF563A28D0DE24AB3;5207.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35368 strings out of 475512
- 596195,1373583 words of node,token memory allocated
- 1160 words of node memory still in use:
-   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 59 attribute, 80 glue_spe
-c, 59 attribute_list, 47 pdf_action nodes
-   avail lists: 2:4808,3:1290,4:343,5:15145,6:139,7:24818,8:150,9:30849,10:30,11
-:1785
- 57221 multiletter control sequences out of 65536+600000
+ 35384 strings out of 475512
+ 596180,1373583 words of node,token memory allocated
+ 1170 words of node memory still in use:
+   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 60 attribute, 80 glue_spe
+c, 60 attribute_list, 48 pdf_action nodes
+   avail lists: 2:5073,3:1353,4:341,5:15997,6:139,7:24604,8:150,9:32589,10:30,11
+:1739
+ 57231 multiletter control sequences out of 65536+600000
  81 fonts using 5643927 bytes
- 124i,12n,116p,699b,1440s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 124i,12n,116p,699b,1412s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf></usr/share/texmf
 /fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/
 public/lm/lmroman9-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman8-
@@ -1379,10 +1379,10 @@ live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy7.pfb>
-Output written on inooil.pdf (23 pages, 24078410 bytes).
+Output written on inooil.pdf (23 pages, 24083656 bytes).
 
-PDF statistics: 812 PDF objects out of 1000 (max. 8388607)
- 742 compressed objects within 8 object streams
- 203 named destinations out of 1000 (max. 131072)
- 240 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 835 PDF objects out of 1000 (max. 8388607)
+ 765 compressed objects within 8 object streams
+ 209 named destinations out of 1000 (max. 131072)
+ 256 words of extra memory for PDF output out of 10000 (max. 100000000)
 

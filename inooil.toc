@@ -6,26 +6,28 @@
 \contentsline {section}{\numberline {I}Introduction }{3}{section*.4}%
 \contentsline {section}{\numberline {II} Discovery and Consideration of Suspects }{4}{section*.5}%
 \contentsline {subsection}{\numberline {II.1}Extra Virgin Olive Oil }{4}{section*.6}%
-\contentsline {subsection}{\numberline {II.2}Inositol}{4}{section*.7}%
-\contentsline {subsection}{\numberline {II.3}PABA}{5}{section*.8}%
-\contentsline {subsection}{\numberline {II.4}choline}{6}{section*.9}%
-\contentsline {subsection}{\numberline {II.5}Silica }{6}{section*.10}%
-\contentsline {subsection}{\numberline {II.6}Creatine }{6}{section*.11}%
-\contentsline {subsection}{\numberline {II.7}Carnitine }{6}{section*.12}%
-\contentsline {section}{\numberline {III} Results }{7}{section*.13}%
-\contentsline {section}{\numberline {IV}Discussion}{7}{section*.14}%
-\contentsline {subsection}{\numberline {IV.1}Picky Eating }{8}{section*.15}%
-\contentsline {subsection}{\numberline {IV.2}Its the Greatest Derivative Charlie Brown }{8}{section*.16}%
-\contentsline {section}{\numberline {V}Conclusions}{8}{section*.17}%
-\contentsline {section}{\numberline {VI}Supplemental Information}{9}{section*.18}%
-\contentsline {subsection}{\numberline {VI.1}Computer Code}{9}{section*.19}%
-\contentsline {section}{\numberline {VII}Bibliography}{9}{section*.20}%
-\contentsline {section}{\numberline {}References}{9}{section*.21}%
-\contentsline {section}{\numberline {}Acknowledgments}{14}{section*.22}%
+\contentsline {subsection}{\numberline {II.2}Liquid Sunflower Lecithin }{4}{section*.7}%
+\contentsline {subsection}{\numberline {II.3}Inositol}{5}{section*.8}%
+\contentsline {subsection}{\numberline {II.4}PABA}{5}{section*.9}%
+\contentsline {subsection}{\numberline {II.5}choline}{6}{section*.10}%
+\contentsline {subsection}{\numberline {II.6}Silica }{6}{section*.11}%
+\contentsline {subsection}{\numberline {II.7}Creatine }{6}{section*.12}%
+\contentsline {subsection}{\numberline {II.8}Carnitine }{7}{section*.13}%
+\contentsline {section}{\numberline {III} Diet Modification Description }{7}{section*.14}%
+\contentsline {section}{\numberline {IV} Results }{7}{section*.15}%
+\contentsline {section}{\numberline {V}Discussion}{8}{section*.16}%
+\contentsline {subsection}{\numberline {V.1}Picky Eating }{9}{section*.17}%
+\contentsline {subsection}{\numberline {V.2}Its the Greatest Derivative Charlie Brown }{9}{section*.18}%
+\contentsline {section}{\numberline {VI}Conclusions}{9}{section*.19}%
+\contentsline {section}{\numberline {VII}Supplemental Information}{9}{section*.20}%
+\contentsline {subsection}{\numberline {VII.1}Computer Code}{9}{section*.21}%
+\contentsline {section}{\numberline {VIII}Bibliography}{10}{section*.22}%
+\contentsline {section}{\numberline {}References}{10}{section*.23}%
+\contentsline {section}{\numberline {}Acknowledgments}{14}{section*.24}%
 \appendix 
-\contentsline {section}{\numberline {A} Statement of Conflicts }{15}{section*.23}%
-\contentsline {section}{\numberline {B}About the Authors and Facility}{15}{section*.24}%
-\contentsline {section}{\numberline {C}Happy Monthly Diet Tables}{15}{section*.25}%
-\contentsline {section}{\numberline {D}Symbols, Abbreviations and Colloquialisms}{21}{section*.26}%
-\contentsline {section}{\numberline {E}General caveats and disclaimer }{21}{section*.27}%
-\contentsline {section}{\numberline {F}Citing this as a tech report or white paper }{22}{section*.28}%
+\contentsline {section}{\numberline {A} Statement of Conflicts }{15}{section*.25}%
+\contentsline {section}{\numberline {B}About the Authors and Facility}{15}{section*.26}%
+\contentsline {section}{\numberline {C}Happy Monthly Diet Tables}{15}{section*.27}%
+\contentsline {section}{\numberline {D}Symbols, Abbreviations and Colloquialisms}{21}{section*.28}%
+\contentsline {section}{\numberline {E}General caveats and disclaimer }{21}{section*.29}%
+\contentsline {section}{\numberline {F}Citing this as a tech report or white paper }{22}{section*.30}%

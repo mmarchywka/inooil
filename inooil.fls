@@ -330,9 +330,6 @@ INPUT ./keep/nc100_label.png
 INPUT ./keep/nc100_label.png
 INPUT ./keep/lecithin.png
 INPUT ./keep/lecithin.png
-INPUT /home/marchywka/.texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
-INPUT /home/marchywka/.texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmmono9-regular.luc
-INPUT ./inooil.bbl
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
@@ -342,6 +339,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy9.tfm
+INPUT /home/marchywka/.texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
+INPUT /home/marchywka/.texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmmono9-regular.luc
+INPUT ./inooil.bbl
 OUTPUT comment.cut
 INPUT ./comment.cut
 OUTPUT comment.cut
