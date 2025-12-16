@@ -13,21 +13,21 @@
 \contentsline {subsection}{\numberline {II.6}Silica }{7}{section*.11}%
 \contentsline {subsection}{\numberline {II.7}Creatine }{7}{section*.12}%
 \contentsline {subsection}{\numberline {II.8}Carnitine }{7}{section*.13}%
-\contentsline {section}{\numberline {III} Diet Modification Description }{7}{section*.14}%
+\contentsline {section}{\numberline {III} Diet Modification Description }{8}{section*.14}%
 \contentsline {section}{\numberline {IV} Results }{8}{section*.15}%
-\contentsline {section}{\numberline {V}Discussion}{8}{section*.16}%
-\contentsline {subsection}{\numberline {V.1}Picky Eating }{9}{section*.17}%
-\contentsline {subsection}{\numberline {V.2}Its the Greatest Derivative Charlie Brown }{9}{section*.18}%
+\contentsline {section}{\numberline {V}Discussion}{9}{section*.16}%
+\contentsline {subsection}{\numberline {V.1}Picky Eating }{10}{section*.17}%
+\contentsline {subsection}{\numberline {V.2}Its the Greatest Derivative Charlie Brown }{10}{section*.18}%
 \contentsline {section}{\numberline {VI}Conclusions}{10}{section*.19}%
 \contentsline {section}{\numberline {VII}Supplemental Information}{10}{section*.20}%
-\contentsline {subsection}{\numberline {VII.1}Computer Code}{10}{section*.21}%
-\contentsline {section}{\numberline {VIII}Bibliography}{10}{section*.22}%
-\contentsline {section}{\numberline {}References}{10}{section*.23}%
-\contentsline {section}{\numberline {}Acknowledgments}{15}{section*.24}%
+\contentsline {subsection}{\numberline {VII.1}Computer Code}{11}{section*.21}%
+\contentsline {section}{\numberline {VIII}Bibliography}{11}{section*.22}%
+\contentsline {section}{\numberline {}References}{11}{section*.23}%
+\contentsline {section}{\numberline {}Acknowledgments}{16}{section*.24}%
 \appendix 
-\contentsline {section}{\numberline {A} Statement of Conflicts }{16}{section*.25}%
-\contentsline {section}{\numberline {B}About the Authors and Facility}{16}{section*.26}%
-\contentsline {section}{\numberline {C}Happy Monthly Diet Tables}{16}{section*.27}%
-\contentsline {section}{\numberline {D}Symbols, Abbreviations and Colloquialisms}{22}{section*.28}%
-\contentsline {section}{\numberline {E}General caveats and disclaimer }{22}{section*.29}%
-\contentsline {section}{\numberline {F}Citing this as a tech report or white paper }{23}{section*.30}%
+\contentsline {section}{\numberline {A} Statement of Conflicts }{17}{section*.25}%
+\contentsline {section}{\numberline {B}About the Authors and Facility}{17}{section*.26}%
+\contentsline {section}{\numberline {C}Happy Monthly Diet Tables}{17}{section*.27}%
+\contentsline {section}{\numberline {D}Symbols, Abbreviations and Colloquialisms}{23}{section*.28}%
+\contentsline {section}{\numberline {E}General caveats and disclaimer }{23}{section*.29}%
+\contentsline {section}{\numberline {F}Citing this as a tech report or white paper }{24}{section*.30}%
