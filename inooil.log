@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  17 DEC 2025 07:03
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  21 DEC 2025 17:56
  restricted system commands enabled.
  file:line:error style messages enabled.
 **inooil.tex
@@ -1314,32 +1314,38 @@ Overfull \hbox (23.45999pt too wide) in paragraph at lines 834--834
  []
 
 [7]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 952--952
+<keep/olivelec.png, id=410, 903.375pt x 602.25pt>
+File: keep/olivelec.png Graphic file (type png)
+<use keep/olivelec.png>
+Package luatex.def Info: keep/olivelec.png  used on input line 932.
+(luatex.def)             Requested size: 289.0859pt x 216.80983pt.
+ [8<./keep/olivelec.png>]
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 957--957
 [][] 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 970--970
-[][] 
- []
-
-[8]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 999--999
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 975--975
 [][] 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1059--1059
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1004--1004
 [][] 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1100--1100
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1064--1064
 [][] 
  []
 
 [9]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1161--1161
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1105--1105
+[][] 
+ []
+
+
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1166--1166
 [][] 
  []
 
@@ -1380,16 +1386,16 @@ Package rerunfilecheck Info: File `inooil.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35415 strings out of 475512
- 596200,1373583 words of node,token memory allocated
+ 35427 strings out of 475512
+ 596207,1373583 words of node,token memory allocated
  1210 words of node memory still in use:
    11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 64 attribute, 80 glue_spe
 c, 64 attribute_list, 52 pdf_action nodes
-   avail lists: 1:1,2:5064,3:1366,4:335,5:15970,6:138,7:24539,8:150,9:32535,10:3
-0,11:1707
- 57251 multiletter control sequences out of 65536+600000
+   avail lists: 1:2,2:5081,3:1335,4:343,5:16024,6:138,7:24744,8:150,9:32643,10:3
+0,11:1713
+ 57259 multiletter control sequences out of 65536+600000
  81 fonts using 5643927 bytes
- 124i,12n,116p,699b,1470s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 124i,12n,116p,699b,1436s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf></usr/share/texmf
 /fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/
 public/lm/lmroman9-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman8-
@@ -1404,10 +1410,10 @@ live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy7.pfb>
-Output written on inooil.pdf (25 pages, 24095439 bytes).
+Output written on inooil.pdf (25 pages, 24106333 bytes).
 
-PDF statistics: 879 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 880 PDF objects out of 1000 (max. 8388607)
  806 compressed objects within 9 object streams
- 220 named destinations out of 1000 (max. 131072)
+ 221 named destinations out of 1000 (max. 131072)
  256 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -14,12 +14,12 @@
 \contentsline {subsection}{\numberline {II.7}Creatine }{7}{section*.12}%
 \contentsline {subsection}{\numberline {II.8}Carnitine }{7}{section*.13}%
 \contentsline {section}{\numberline {III} Diet Modification Description }{8}{section*.14}%
-\contentsline {section}{\numberline {IV} Results }{8}{section*.15}%
+\contentsline {section}{\numberline {IV} Results }{9}{section*.15}%
 \contentsline {section}{\numberline {V}Discussion}{9}{section*.16}%
 \contentsline {subsection}{\numberline {V.1}Picky Eating }{10}{section*.17}%
 \contentsline {subsection}{\numberline {V.2}Its the Greatest Derivative Charlie Brown }{10}{section*.18}%
-\contentsline {section}{\numberline {VI}Conclusions}{10}{section*.19}%
-\contentsline {section}{\numberline {VII}Supplemental Information}{10}{section*.20}%
+\contentsline {section}{\numberline {VI}Conclusions}{11}{section*.19}%
+\contentsline {section}{\numberline {VII}Supplemental Information}{11}{section*.20}%
 \contentsline {subsection}{\numberline {VII.1}Computer Code}{11}{section*.21}%
 \contentsline {section}{\numberline {VIII}Bibliography}{11}{section*.22}%
 \contentsline {section}{\numberline {}References}{11}{section*.23}%
