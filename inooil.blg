@@ -15,7 +15,7 @@ Warning--entry type for "CostaCarvalho_Copper_Organic_Complexes_Synthetized_2022
 --line 2868 of file inooil.bib
 Warning--entry type for "Carlisle_Silicon_Essential_2007" isn't style-file defined
 --line 3337 of file inooil.bib
-"}" immediately follows an entry type---line 4974 of file inooil.bib
+"}" immediately follows an entry type---line 5032 of file inooil.bib
  : %CI = {American Association for Clinical Chemistry 2020. All rights reserved. For  permissions, please email: journals.permissions@oup.com.
  :                                                                                                                                            },
 I'm skipping whatever remains of this entry
@@ -28,45 +28,45 @@ Warning--empty journal in DUM_Amazon_Silicon_Dioxide_
 Warning--empty year in DUM_Amazon_Silicon_Dioxide_
 Warning--empty year in 250Caplets250Servings_100_Complex_
 Warning--can't use both author and editor fields in Martin2013
-You've used 97 entries,
+You've used 98 entries,
             2943 wiz_defined-function locations,
-            1474 strings with 52668 characters,
-and the built_in function-call counts, 56549 in all, are:
-= -- 5878
-> -- 3190
+            1482 strings with 53105 characters,
+and the built_in function-call counts, 56980 in all, are:
+= -- 5925
+> -- 3210
 < -- 16
-+ -- 1243
-- -- 1090
-* -- 4238
-:= -- 8424
-add.period$ -- 390
-call.type$ -- 97
-change.case$ -- 834
++ -- 1250
+- -- 1096
+* -- 4263
+:= -- 8489
+add.period$ -- 394
+call.type$ -- 98
+change.case$ -- 840
 chr.to.int$ -- 0
-cite$ -- 103
-duplicate$ -- 1248
-empty$ -- 4135
-format.name$ -- 1090
-if$ -- 13757
+cite$ -- 104
+duplicate$ -- 1258
+empty$ -- 4169
+format.name$ -- 1096
+if$ -- 13867
 int.to.chr$ -- 0
-int.to.str$ -- 97
-missing$ -- 93
-newline$ -- 586
-num.names$ -- 194
-pop$ -- 1199
+int.to.str$ -- 98
+missing$ -- 94
+newline$ -- 592
+num.names$ -- 196
+pop$ -- 1207
 preamble$ -- 1
-purify$ -- 738
+purify$ -- 743
 quote$ -- 0
-skip$ -- 3446
+skip$ -- 3480
 stack$ -- 0
-substring$ -- 1721
-swap$ -- 438
-text.length$ -- 244
+substring$ -- 1728
+swap$ -- 441
+text.length$ -- 246
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 386
+type$ -- 390
 warning$ -- 6
-while$ -- 250
-width$ -- 99
-write$ -- 1318
+while$ -- 252
+width$ -- 100
+write$ -- 1331
 (There was 1 error message)

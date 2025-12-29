@@ -3,31 +3,31 @@
 \tocdepth@munge 
 \contentsline {section}{\numberline {}Contents}{1}{section*.3}%
 \tocdepth@restore 
-\contentsline {section}{\numberline {I}Introduction }{3}{section*.4}%
-\contentsline {section}{\numberline {II} Discovery and Consideration of Suspects }{4}{section*.5}%
-\contentsline {subsection}{\numberline {II.1}Extra Virgin Olive Oil }{4}{section*.6}%
-\contentsline {subsection}{\numberline {II.2}Liquid Sunflower Lecithin }{5}{section*.7}%
-\contentsline {subsection}{\numberline {II.3}Inositol}{5}{section*.8}%
-\contentsline {subsection}{\numberline {II.4}PABA}{6}{section*.9}%
-\contentsline {subsection}{\numberline {II.5}choline}{6}{section*.10}%
-\contentsline {subsection}{\numberline {II.6}Silica }{7}{section*.11}%
-\contentsline {subsection}{\numberline {II.7}Creatine }{7}{section*.12}%
-\contentsline {subsection}{\numberline {II.8}Carnitine }{7}{section*.13}%
-\contentsline {section}{\numberline {III} Diet Modification Description }{8}{section*.14}%
-\contentsline {section}{\numberline {IV} Results }{9}{section*.15}%
-\contentsline {section}{\numberline {V}Discussion}{9}{section*.16}%
-\contentsline {subsection}{\numberline {V.1}Picky Eating }{10}{section*.17}%
-\contentsline {subsection}{\numberline {V.2}Its the Greatest Derivative Charlie Brown }{10}{section*.18}%
-\contentsline {section}{\numberline {VI}Conclusions}{11}{section*.19}%
-\contentsline {section}{\numberline {VII}Supplemental Information}{11}{section*.20}%
-\contentsline {subsection}{\numberline {VII.1}Computer Code}{11}{section*.21}%
-\contentsline {section}{\numberline {VIII}Bibliography}{11}{section*.22}%
-\contentsline {section}{\numberline {}References}{11}{section*.23}%
-\contentsline {section}{\numberline {}Acknowledgments}{16}{section*.24}%
+\contentsline {section}{\numberline {I}Introduction }{4}{section*.4}%
+\contentsline {section}{\numberline {II} Discovery and Consideration of Suspects }{5}{section*.5}%
+\contentsline {subsection}{\numberline {II.1}Extra Virgin Olive Oil }{5}{section*.6}%
+\contentsline {subsection}{\numberline {II.2}Liquid Sunflower Lecithin }{6}{section*.7}%
+\contentsline {subsection}{\numberline {II.3}Inositol}{6}{section*.8}%
+\contentsline {subsection}{\numberline {II.4}PABA}{7}{section*.9}%
+\contentsline {subsection}{\numberline {II.5}choline}{7}{section*.10}%
+\contentsline {subsection}{\numberline {II.6}Silica }{8}{section*.11}%
+\contentsline {subsection}{\numberline {II.7}Creatine }{8}{section*.12}%
+\contentsline {subsection}{\numberline {II.8}Carnitine }{8}{section*.13}%
+\contentsline {section}{\numberline {III} Diet Modification Description }{9}{section*.14}%
+\contentsline {section}{\numberline {IV} Results }{10}{section*.15}%
+\contentsline {section}{\numberline {V}Discussion}{10}{section*.16}%
+\contentsline {subsection}{\numberline {V.1}Picky Eating }{11}{section*.17}%
+\contentsline {subsection}{\numberline {V.2}Its the Greatest Derivative Charlie Brown }{11}{section*.18}%
+\contentsline {section}{\numberline {VI}Conclusions}{12}{section*.19}%
+\contentsline {section}{\numberline {VII}Supplemental Information}{12}{section*.20}%
+\contentsline {subsection}{\numberline {VII.1}Computer Code}{12}{section*.21}%
+\contentsline {section}{\numberline {VIII}Bibliography}{12}{section*.22}%
+\contentsline {section}{\numberline {}References}{12}{section*.23}%
+\contentsline {section}{\numberline {}Acknowledgments}{17}{section*.24}%
 \appendix 
-\contentsline {section}{\numberline {A} Statement of Conflicts }{17}{section*.25}%
-\contentsline {section}{\numberline {B}About the Authors and Facility}{17}{section*.26}%
-\contentsline {section}{\numberline {C}Happy Monthly Diet Tables}{17}{section*.27}%
-\contentsline {section}{\numberline {D}Symbols, Abbreviations and Colloquialisms}{23}{section*.28}%
-\contentsline {section}{\numberline {E}General caveats and disclaimer }{23}{section*.29}%
-\contentsline {section}{\numberline {F}Citing this as a tech report or white paper }{24}{section*.30}%
+\contentsline {section}{\numberline {A} Statement of Conflicts }{19}{section*.25}%
+\contentsline {section}{\numberline {B}About the Authors and Facility}{19}{section*.26}%
+\contentsline {section}{\numberline {C}Happy Monthly Diet Tables}{19}{section*.27}%
+\contentsline {section}{\numberline {D}Symbols, Abbreviations and Colloquialisms}{25}{section*.28}%
+\contentsline {section}{\numberline {E}General caveats and disclaimer }{25}{section*.29}%
+\contentsline {section}{\numberline {F}Citing this as a tech report or white paper }{26}{section*.30}%
