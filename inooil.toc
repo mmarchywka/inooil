@@ -9,21 +9,21 @@
 \contentsline {subsection}{\numberline {II.2}Liquid Sunflower Lecithin }{6}{section*.7}%
 \contentsline {subsection}{\numberline {II.3}Inositol}{6}{section*.8}%
 \contentsline {subsection}{\numberline {II.4}PABA}{7}{section*.9}%
-\contentsline {subsection}{\numberline {II.5}choline}{7}{section*.10}%
+\contentsline {subsection}{\numberline {II.5}choline}{8}{section*.10}%
 \contentsline {subsection}{\numberline {II.6}Silica }{8}{section*.11}%
 \contentsline {subsection}{\numberline {II.7}Creatine }{8}{section*.12}%
 \contentsline {subsection}{\numberline {II.8}Carnitine }{8}{section*.13}%
 \contentsline {section}{\numberline {III} Diet Modification Description }{9}{section*.14}%
 \contentsline {section}{\numberline {IV} Results }{10}{section*.15}%
-\contentsline {section}{\numberline {V}Discussion}{10}{section*.16}%
+\contentsline {section}{\numberline {V}Discussion}{11}{section*.16}%
 \contentsline {subsection}{\numberline {V.1}Picky Eating }{11}{section*.17}%
-\contentsline {subsection}{\numberline {V.2}Its the Greatest Derivative Charlie Brown }{11}{section*.18}%
+\contentsline {subsection}{\numberline {V.2}Its the Greatest Derivative Charlie Brown }{12}{section*.18}%
 \contentsline {section}{\numberline {VI}Conclusions}{12}{section*.19}%
 \contentsline {section}{\numberline {VII}Supplemental Information}{12}{section*.20}%
 \contentsline {subsection}{\numberline {VII.1}Computer Code}{12}{section*.21}%
-\contentsline {section}{\numberline {VIII}Bibliography}{12}{section*.22}%
-\contentsline {section}{\numberline {}References}{12}{section*.23}%
-\contentsline {section}{\numberline {}Acknowledgments}{17}{section*.24}%
+\contentsline {section}{\numberline {VIII}Bibliography}{13}{section*.22}%
+\contentsline {section}{\numberline {}References}{13}{section*.23}%
+\contentsline {section}{\numberline {}Acknowledgments}{18}{section*.24}%
 \appendix 
 \contentsline {section}{\numberline {A} Statement of Conflicts }{19}{section*.25}%
 \contentsline {section}{\numberline {B}About the Authors and Facility}{19}{section*.26}%

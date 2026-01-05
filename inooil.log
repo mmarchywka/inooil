@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  28 DEC 2025 20:24
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  4 JAN 2026 19:10
  restricted system commands enabled.
  file:line:error style messages enabled.
 **inooil.tex
@@ -1298,78 +1298,83 @@ Overfull \hbox (23.45999pt too wide) in paragraph at lines 544--544
 [][] 
  []
 
-
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 635--635
+[6]
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 649--649
 [][] 
  []
 
-[6]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 723--723
+
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 738--738
 [][] 
  []
 
 [7]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 854--854
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 869--869
 [][] 
  []
 
 [8]
-<keep/olivelec.png, id=416, 903.375pt x 602.25pt>
+<keep/olivelec.png, id=424, 903.375pt x 602.25pt>
 File: keep/olivelec.png Graphic file (type png)
 <use keep/olivelec.png>
-Package luatex.def Info: keep/olivelec.png  used on input line 953.
+Package luatex.def Info: keep/olivelec.png  used on input line 968.
 (luatex.def)             Requested size: 289.0859pt x 216.80983pt.
  [9<./keep/olivelec.png>]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 978--978
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 993--993
 [][] 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 980--980
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 995--995
 [][] 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1004--1004
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1019--1019
 [][] 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1036--1036
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1061--1061
 [][] 
  []
 
 [10]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1096--1096
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1128--1128
 [][] 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1137--1137
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1169--1169
 [][] 
  []
 
 [11]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1198--1198
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1228--1228
 [][] 
  []
 
-(./inooil.bbl [12]
-Underfull \hbox (badness 2698) in paragraph at lines 180--184
+(./inooil.bbl [12] [13]
+Underfull \hbox (badness 2126) in paragraph at lines 198--202
 []\TU/lmr/m/n/9 Lu-ciana da Costa Car-valho.  Copper-organic com-plexes syn-thet
 ized elec-tro-chem-i-cally, 2022.  [][]$\TU/lmtt/m/n/9 doi:10.1007/
  []
 
-[13] [14] [15] [16]) [17] [18] Including 'mdpicomment' comment.
+[14] [15] [16]
+Underfull \hbox (badness 2359) in paragraph at lines 792--803
+\TU/lmr/m/n/9 path-way and mi-tophagy re-cep-tors.  \TU/lmr/m/it/9 Jour-nal of 
+Bio-chem-i-cal and Molec-u-lar Tox-i-col-ogy\TU/lmr/m/n/9 , 36(6):e23032, 2022.
+ []
+
+[17]) [18] Including 'mdpicomment' comment.
+\openout4 = comment.cut
+ Straight input of comment.cut.
+(./comment.cut) Including 'mdpicomment' comment.
 \openout4 = comment.cut
 
-Straight input of comment.cut. (./comment.cut)
-Including 'mdpicomment' comment.
-\openout4 = comment.cut
- Straight input of comment.cut. (./comment.cut
-Excluding 'comment' comment. (./keep/oldtablelec.tex [19])
-(./keep/newtablelec.tex [20] [21]) (./keep/lectablelec.tex [22] [23]) [24]
-Excluding 'comment' comment.
+Straight input of comment.cut. (./comment.cut Excluding 'comment' comment.
+(./keep/oldtablelec.tex [19]) (./keep/newtablelec.tex [20] [21])
+(./keep/lectablelec.tex [22] [23]) [24] Excluding 'comment' comment.
 (/home/documents/latex/share/includes/disclaimer-gaslight.tex)
 (/home/documents/latex/share/includes/disclaimer-status.tex [25])
 (./releases.tex)
@@ -1391,16 +1396,16 @@ Package rerunfilecheck Info: File `inooil.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35434 strings out of 475512
- 596201,1373583 words of node,token memory allocated
- 1210 words of node memory still in use:
-   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 64 attribute, 80 glue_spe
-c, 64 attribute_list, 52 pdf_action nodes
-   avail lists: 2:5212,3:1341,4:337,5:16450,6:138,7:24305,8:150,9:33513,10:30,11
-:1758
- 57262 multiletter control sequences out of 65536+600000
+ 35458 strings out of 475512
+ 596195,1373583 words of node,token memory allocated
+ 1230 words of node memory still in use:
+   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 66 attribute, 80 glue_spe
+c, 66 attribute_list, 54 pdf_action nodes
+   avail lists: 1:2,2:5189,3:1341,4:332,5:16367,6:138,7:24022,8:150,9:33351,10:3
+0,11:1747
+ 57280 multiletter control sequences out of 65536+600000
  81 fonts using 5643927 bytes
- 124i,12n,116p,699b,1420s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 124i,12n,116p,699b,1490s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf></usr/share/texmf
 /fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/
 public/lm/lmroman9-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman8-
@@ -1415,10 +1420,10 @@ live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy7.pfb>
-Output written on inooil.pdf (27 pages, 24109981 bytes).
+Output written on inooil.pdf (27 pages, 24115236 bytes).
 
-PDF statistics: 893 PDF objects out of 1000 (max. 8388607)
- 817 compressed objects within 9 object streams
- 225 named destinations out of 1000 (max. 131072)
+PDF statistics: 918 PDF objects out of 1000 (max. 8388607)
+ 842 compressed objects within 9 object streams
+ 231 named destinations out of 1000 (max. 131072)
  256 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -1,4 +1,4 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
 
 \bibitem{DUM_Amazon_Silicon_Dioxide_}
 Amazon.com: Silicon dioxide 1 pound-silica powder-anti caking agent : Health \&
@@ -25,6 +25,15 @@ B-Complex~100 250 Caplets (250~Servings) and B-Complex 100.
 \newblock {\em GNC}.
 \newblock URL: \url{https://www.gnc.com and
   https://www.gnc.com/vitamin-b-complex/GNCBCOMPLEXBIG100.html}.
+
+\bibitem{Abdulla_Loh_Akit_Fatty_Acid_Profile_Cholesterol_2015}
+NR~Abdulla, TC~Loh, H~Akit, AQ~Sazili, HL~Foo, R~Mohamad, R~Abdul Rahim,
+  M~Ebrahimi, and AB~Sabow.
+\newblock Fatty acid profile, cholesterol and oxidative status in broiler
+  chicken breast muscle fed different dietary oil sources and calcium levels.
+\newblock {\em South African Journal of Animal Science}, 45, 08 2015.
+\newblock \href {https://doi.org/10.4314/sajas.v45i2.6}
+  {\path{doi:10.4314/sajas.v45i2.6}}.
 
 \bibitem{PMID41202839}
 Maria~M Adeva-Andany, Lucia Adeva-Contreras, Eva Ameneiros-Rodriguez, Natalia
@@ -99,6 +108,15 @@ Andreia Biolo, Ruth Greferath, Deborah~A. Siwik, Fuzhong Qin, Eugene Valsky,
 \newblock {\em Proceedings of the National Academy of Sciences}, 106, 02 2009.
 \newblock \href {https://doi.org/10.1073/pnas.0812381106}
   {\path{doi:10.1073/pnas.0812381106}}.
+
+\bibitem{BOIUx0218badchar_CIOBANU_LAZAR_Researches_Regarding_Fatty_2014}
+Paul~Corneliu BOIUx0218[bad~char vv=536]TEANU, Marius CIOBANU, and Roxana
+  LAZAR.
+\newblock Researches regarding the fatty acids content in turkey meat.
+\newblock {\em Bulletin of University of Agricultural Sciences and Veterinary
+  Medicine Cluj-Napoca. Animal Science and Biotechnologies}, 71, 11 2014.
+\newblock \href {https://doi.org/10.15835/buasvmcn-asb:10816}
+  {\path{doi:10.15835/buasvmcn-asb:10816}}.
 
 \bibitem{Bossert_Urban_Maceroni_hydrofluoric_acid_free_2019}
 David Bossert, Dominic~A. Urban, Mattia Maceroni, Liliane Ackermann-Hirschi,
@@ -649,6 +667,16 @@ Anne-Catherine Pouleur, Nassiba Menghoum, Julien Cumps, Alice Marino, Maria
 \newblock \href {https://doi.org/10.1016/j.ebiom.2024.105264}
   {\path{doi:10.1016/j.ebiom.2024.105264}}.
 
+\bibitem{PMID2785392}
+B~R Premachandra.
+\newblock Interaction of p-aminobenzoic acid with erythrocyte membrane:
+  photoaffinity labeling of the binding sites.
+\newblock {\em Biochemical medicine and metabolic biology}, pages 1--17, Feb
+  1989.
+\newblock URL: \url{https://pubmed.ncbi.nlm.nih.gov/2785392/}, \href
+  {https://doi.org/10.1016/0885-4505(89)90002-9}
+  {\path{doi:10.1016/0885-4505(89)90002-9}}.
+
 \bibitem{https://doi.org/10.1155/2013/316783}
 Charles~T. Price, Kenneth~J. Koval, and Joshua~R. Langford.
 \newblock Silicon: A review of its potential role in the prevention and
@@ -717,6 +745,24 @@ Joey Roy and Serge Carrier.
   \url{https://www.sciencedirect.com/science/article/pii/S174360951531897X},
   \href {https://doi.org/10.1111/j.1743-6109.2008.00918.x}
   {\path{doi:10.1111/j.1743-6109.2008.00918.x}}.
+
+\bibitem{SAHASRABUDHE_DELORME_WOOD_Neutral_Polar_Lipids_1985}
+M.R. SAHASRABUDHE, NICOLE~FILLION DELORME, D.F. WOOD, and C.J. RANDALL.
+\newblock Neutral and polar lipids in chicken parts and their fatty acid
+  composition.
+\newblock {\em Poultry Science}, 64, 05 1985.
+\newblock \href {https://doi.org/10.3382/ps.0640910}
+  {\path{doi:10.3382/ps.0640910}}.
+
+\bibitem{SALMON1973302}
+R.E. Salmon and J.B. O'Neil.
+\newblock The effect of the level and source and of a change of source of
+  dietary fat on the fatty acid composition of the depot fat and the thigh and
+  breast meat of turkeys as related to age.
+\newblock {\em Poultry Science}, 52(1):302--314, 1973.
+\newblock URL:
+  \url{https://www.sciencedirect.com/science/article/pii/S0032579119473756},
+  \href {https://doi.org/10.3382/ps.0520302} {\path{doi:10.3382/ps.0520302}}.
 
 \bibitem{Scholey_Belton_Burton_Bioavailability_novel_2018}
 D.~V. Scholey, D.~J. Belton, E.~J. Burton, and C.~C. Perry.
@@ -902,6 +948,16 @@ Shidong Wang, Fanxing Meng, Yang Liu, Silei Xia, and Rixin Wang.
   \&amp; Pharmacology}, 240, 02 2021.
 \newblock \href {https://doi.org/10.1016/j.cbpc.2020.108911}
   {\path{doi:10.1016/j.cbpc.2020.108911}}.
+
+\bibitem{19722081}
+R.~M. WANGEN, W.~W. MARION, and D.~K. HOTCHKISS.
+\newblock Influence of age on the fatty acid composition of breast and thigh
+  muscles of male turkeys.
+\newblock {\em Agricultural and Biological Chemistry}, 36(12):20812086, 1972.
+\newblock URL:
+  \url{https://www.jstage.jst.go.jp/article/bbb1961/36/12/36_12_2081/_pdf},
+  \href {https://doi.org/10.1271/bbb1961.36.2081}
+  {\path{doi:10.1271/bbb1961.36.2081}}.
 
 \bibitem{WHITTEN1995771S}
 Patricia~L. Whitten, Carole Lewis, Elizabeth Russell, and Frederick Naftolin.
