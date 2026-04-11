@@ -1,0 +1,60 @@
+%Create latex source code for a table with rows of important fatty acids for dogs including essential toxic or common ones such as oleic acid and columns of sources such as canola oil, soybean oil, olive oil, or typical commercial dog food samples and table entries
+
+% add krill oit and chicken thighs to that table
+
+%\usepackage[landscape]{geometry} % Useful for wider tables
+
+%\begin{document}
+
+\begin{table}[h!]
+    \centering
+    \caption{\textbf{Gemini Generated} Fatty Acid Profiles of Canine Dietary Sources (\% of Total Fat) with manually added literature values. Some refs \cite{Ozbay_Determination_fatty_acid_2026} contain ranges and include trace components 
+which may eventually prove to be important beneficially ot as toxins. 
+Single values are reported here to fit format and reflect approximate
+average discarding outliers but all natural products are highly variable.  
+Oil values are generally percentages of total fat contents. }
+    \label{tab:fatty-acids-comprehensive}
+    \vspace{2mm}
+\setlength{\tabcolsep}{12pt} % Doubles the default space
+
+    \small % Reduced font size to accommodate more columns
+    %\begin{tabular}{l *{6}{S[table-format=2.1]}}
+    \begin{tabular}{l *{6}{S[table-format=2.1]}}
+        \toprule
+        \textbf{} & {\textbf{Canola}} & {\textbf{Soybean}} & {\textbf{Olive}} & {\textbf{Krill}} & {\textbf{Chicken}} & {\textbf{Comm.}}\\
+        & {\textbf{Oil}} & {\textbf{Oil}} & {\textbf{Oil}} & {\textbf{Oil}} & {\textbf{Thigh*}} & {\textbf{Kibble**}} \\
+        \midrule
+        \textit{Essential (n-6)} & & & & & & \\
+        Linoleic  (LA) & 19.0 & 51.0 & 9.7 & 1.5 & 20.0 & 15.2 \\
+        Linoleic  (LA) & 21\cite{Loganes_Ballali_Minto_Main_Properties_Canola_2016} &  &  &  &  &  \\
+        Linoleic low   (LA) &  &  &3 \cite{Irmak_Tokusoglu_Saturated_Unsaturated_Fatty_2017} & 3 \cite{Ozbay_Determination_fatty_acid_2026} &  &  \\
+        Linoleic high   (LA) &  &  & 20 \cite{Irmak_Tokusoglu_Saturated_Unsaturated_Fatty_2017} & 50 \cite{Ozbay_Determination_fatty_acid_2026} &  &  \\
+        \midrule
+        \textit{Essential (n-3)} & & & & & & \\
+        Alpha-Linolenic (ALA) & 9.1 & 6.8 & 0.7 & 0.5 & 1.0 & 1.1 \\
+        Alpha-Linolenic (ALA) & 11 \cite{Loganes_Ballali_Minto_Main_Properties_Canola_2016} &  &  &  &  &  \\
+        EPA / DHA & 0.0 & 0.0 & 0.0 & 25.0 & 0.6 & 0.3 \\
+        EPA / DHA &  &  &  & 30 \cite{Saryer_charvv351_Yuksel_Comparative_Analysis_2025} &  &  \\
+        \midrule
+        \textit{Monounsaturated} & & & & & & \\
+        Oleic  & 63.3 & 22.8 & 71.3 & 11.0 & 38.0 & 28.5 \\
+        Oleic  & 61 \cite{Loganes_Ballali_Minto_Main_Properties_Canola_2016}  &  & 80 \cite{JimenezLopez_Carpena_LourenoLopes_Bioactive_Compounds_Quality_2020} & 27 \cite{Ozbay_Determination_fatty_acid_2026}  &  &  \\
+        \midrule
+        \textit{Saturated} & & & & & & \\
+        Palmitic  & 3.6 & 10.5 & 11.3 & 22.0 & 25.0 & 20.1 \\
+        Palmitic  & 4 \cite{ElNakhlawy_Shiboob_Ux062a_char_2011} &  & 15\cite{Irmak_Tokusoglu_Saturated_Unsaturated_Fatty_2017}  &  20  \cite{Ozbay_Determination_fatty_acid_2026} &   &  \\
+        Stearic  & 1.8 & 4.5 & 2.4 & 1.5 & 7.0 & 10.4 \\
+        Stearic  & 2\cite{ElNakhlawy_Shiboob_Ux062a_char_2011} & & & & & \\
+        \midrule
+        \textit{Potentially Harmful***} & & & & & & \\
+        Erucic  & 0.01 & 0.0 & 0.0 & 0.0 & 0.0 & 0.0 \\
+        Erucic high  (C22:1)  &3.7\cite{Haq_Saeed_Ahmed_Chemical_analysis_characterization_2009}  &  &  & 0.8 \cite{Ozbay_Determination_fatty_acid_2026} &  &  \\
+        \bottomrule
+    \end{tabular}
+    \par\bigskip
+    \footnotesize
+    *Chicken thigh values represent the lipid profile of meat and skin combined.\\
+    **Commercial kibble values are estimates for standard poultry-based adult maintenance diets.\\
+    ***Erucic acid is specifically relevant to the brassica family (rapeseed/canola); it is absent in animal fats and most other seed oils.
+\end{table}
+

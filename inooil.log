@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  17 FEB 2026 07:02
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  11 APR 2026 14:29
  restricted system commands enabled.
  file:line:error style messages enabled.
 **inooil.tex
@@ -40,8 +40,8 @@ Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
-Inserting `tracingstacklevels' in `input_level_string'. (/home/documents/latex/
-share/includes/myrevtexheaders.tex
+Inserting `tracingstacklevels' in `input_level_string'. (./junk/myrevtexheaders
+.tex
 (/usr/share/texlive/texmf-dist/tex/latex/revtex/revtex4-2.cls
 Document Class: revtex4-2 2022/06/05 4.2f (https://journals.aps.org/revtex/ for
  documentation)
@@ -241,7 +241,7 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \extratabsurround=\skip57
 \backup@length=\skip58
 ))
-(/home/documents/latex/share/includes/myskeletonpackages.tex
+(./junk/myskeletonpackages.tex
 (/usr/share/texlive/texmf-dist/tex/latex/fp/fp.sty
 Package: fp 1995/04/02
 
@@ -379,8 +379,7 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \fb@frh=\dimen159
 \FrameRule=\dimen160
 \FrameSep=\dimen161
-)
-(/home/documents/latex/pkg/lgrind.sty
+) (./junk/lgrind.sty
 Package: lgrind 1997/01/30 v3.4 LGrind environment and supporting stuff
 \lc@unt=\count317
 \ln@xt=\count318
@@ -392,8 +391,7 @@ Package: lgrind 1997/01/30 v3.4 LGrind environment and supporting stuff
 \tb@x=\box79
 \TBw@d=\dimen162
 \@ts=\dimen163
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2024/06/23 v1.3e Standard LaTeX Color (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -583,7 +581,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip70
 )
-(/home/documents/latex/pkg/fltpage.sty
+(./junk/fltpage.sty
 Package: fltpage 1998/10/29 v.0.3 Floats on full page (SMU)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
@@ -1091,7 +1089,7 @@ Package morefloats Info: Maximum number of possible floats asked for: 36
 (morefloats)             LaTeX might run out of memory before this
 (morefloats)             (in which case it will notify you).
 )
-(/home/documents/latex/share/includes/recent_template.tex
+(./junk/recent_template.tex
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count383
 \lst@gtempboxa=\box109
@@ -1123,15 +1121,42 @@ Package: listings 2024/09/23 1.10c (Carsten Heinz)
 (/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
 Package: placeins 2005/04/18  v 2.2
 )
-(/home/documents/latex/share/includes/myskeletonpackages.tex)
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen320
+\lightrulewidth=\dimen321
+\cmidrulewidth=\dimen322
+\belowrulesep=\dimen323
+\belowbottomsep=\dimen324
+\aboverulesep=\dimen325
+\abovetopsep=\dimen326
+\cmidrulesep=\dimen327
+\cmidrulekern=\dimen328
+\defaultaddspace=\dimen329
+\@cmidla=\count391
+\@cmidlb=\count392
+\@aboverulesep=\dimen330
+\@belowrulesep=\dimen331
+\@thisruleclass=\count393
+\@lastruleclass=\count394
+\@thisrulewidth=\dimen332
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen333
+\TX@old@table=\dimen334
+\TX@old@col=\dimen335
+\TX@target=\dimen336
+\TX@delta=\dimen337
+\TX@cols=\count395
+\TX@ftn=\toks48
+)
+(./junk/myskeletonpackages.tex)
 
-Package array Warning: Column . is already defined on input line 23.
+Package array Warning: Column . is already defined on input line 28.
 
-Excluding 'comment' comment.
-(/home/documents/latex/share/includes/mycommands.tex
-(/home/documents/latex/share/includes/mjmaddbib.tex)
-(/home/documents/latex/share/includes/mjmlistings.tex)) (./inooil.last_page)
-Excluding 'comment' comment.
+Excluding 'comment' comment. (./junk/mycommands.tex (./junk/mjmaddbib.tex)
+(./junk/mjmlistings.tex)) (./inooil.last_page) Excluding 'comment' comment.
 \desttabw=\skip112
 \chainwidth=\skip113
 \slantwidth=\skip114
@@ -1141,45 +1166,45 @@ Excluding 'comment' comment.
 \subwfigwidthrot=\skip118
 \myboxwidth=\skip119
 \picwidth=\skip120
- Include comment 'mdpicomment'
-Excluding comment 'draftcomment' Excluding comment 'badmathcomment'
-Excluding comment 'showworkcomment'
+
+Include comment 'mdpicomment' Excluding comment 'draftcomment'
+Excluding comment 'badmathcomment' Excluding comment 'showworkcomment'
 Class revtex4-2 Info: Unrecognized array package. Please update this document c
-lass! (Proceeding with fingers crossed.) on input line 296.
+lass! (Proceeding with fingers crossed.) on input line 301.
 
 
 Class revtex4-2 Warning: Failed to patch the float package.
 
 Class revtex4-2 Info: Patching unrecognized longtable package. (Proceeding with
- fingers crossed) on input line 296.
-Class revtex4-2 Info: cite was not loaded (OK!) on input line 296.
-Class revtex4-2 Info: mcite was not loaded (OK!) on input line 296.
-Class revtex4-2 Info: multicol was not loaded (OK!) on input line 296.
+ fingers crossed) on input line 301.
+Class revtex4-2 Info: cite was not loaded (OK!) on input line 301.
+Class revtex4-2 Info: mcite was not loaded (OK!) on input line 301.
+Class revtex4-2 Info: multicol was not loaded (OK!) on input line 301.
 Package translations Info: No language package found. I am going to use `englis
-h' as default language. on input line 296.
+h' as default language. on input line 301.
 (./inooil.aux)
 \openout1 = inooil.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 296.
-LaTeX Font Info:    ... okay on input line 296.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 296.
-LaTeX Font Info:    ... okay on input line 296.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 296.
-LaTeX Font Info:    ... okay on input line 296.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 296.
-LaTeX Font Info:    ... okay on input line 296.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 296.
-LaTeX Font Info:    ... okay on input line 296.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 296.
-LaTeX Font Info:    ... okay on input line 296.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 296.
-LaTeX Font Info:    ... okay on input line 296.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 296.
-LaTeX Font Info:    ... okay on input line 296.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 296.
-LaTeX Font Info:    ... okay on input line 296.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 296.
-LaTeX Font Info:    ... okay on input line 296.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 301.
+LaTeX Font Info:    ... okay on input line 301.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 301.
+LaTeX Font Info:    ... okay on input line 301.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 301.
+LaTeX Font Info:    ... okay on input line 301.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 301.
+LaTeX Font Info:    ... okay on input line 301.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 301.
+LaTeX Font Info:    ... okay on input line 301.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 301.
+LaTeX Font Info:    ... okay on input line 301.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 301.
+LaTeX Font Info:    ... okay on input line 301.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 301.
+LaTeX Font Info:    ... okay on input line 301.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 301.
+LaTeX Font Info:    ... okay on input line 301.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 301.
+LaTeX Font Info:    ... okay on input line 301.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
 nary-english.trsl
@@ -1187,46 +1212,38 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 296.
+or `english'. on input line 301.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count391
-\scratchdimen=\dimen320
+\scratchcounter=\count396
+\scratchdimen=\dimen338
 \scratchbox=\box111
-\nofMPsegments=\count392
-\nofMParguments=\count393
-\everyMPshowfont=\toks48
-\MPscratchCnt=\count394
-\MPscratchDim=\dimen321
-\MPnumerator=\count395
-\makeMPintoPDFobject=\count396
-\everyMPtoPDFconversion=\toks49
+\nofMPsegments=\count397
+\nofMParguments=\count398
+\everyMPshowfont=\toks49
+\MPscratchCnt=\count399
+\MPscratchDim=\dimen339
+\MPnumerator=\count400
+\makeMPintoPDFobject=\count401
+\everyMPtoPDFconversion=\toks50
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-
-(/usr/share/texlive/texmf-dist/tex/latex/grfext/grfext.sty
-Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
-)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring ON on input line 296.
+Package hyperref Info: Link coloring ON on input line 301.
 
 (./inooil.out) (./inooil.out)
 \@outlinefile=\write6
 
 \openout6 = inooil.out
 
-Package chemgreek Info: Activating mapping `default' on line 296.
+Package chemgreek Info: Activating mapping `default' on line 301.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
@@ -1236,28 +1253,28 @@ Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
 
 \flrow@LT@lasthead=\box112
 \flrow@LT@prelastfoot=\box113
-\c@FBLTpage=\count397
+\c@FBLTpage=\count402
 )
-\c@lstlisting=\count398
-Class revtex4-2 Info: Taking \maketitle back from hyperref on input line 296.
+\c@lstlisting=\count403
+Class revtex4-2 Info: Taking \maketitle back from hyperref on input line 301.
 
 \openout3 = inooilNotes.bib
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 320--321
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 325--326
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 320--321
+Underfull \hbox (badness 10000) in paragraph at lines 325--326
 
  []
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 359
+LaTeX Font Info:    Trying to load font information for U+msa on input line 364
 .
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 359
+LaTeX Font Info:    Trying to load font information for U+msb on input line 364
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1268,115 +1285,202 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 \openout7 = inooil.toc
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 372--373
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 377--378
 [][] 
  []
 
 [2] [3]
-<keep/nc100_label.png, id=188, 5018.75pt x 8030.0pt>
+<keep/nc100_label.png, id=193, 5018.75pt x 8030.0pt>
 File: keep/nc100_label.png Graphic file (type png)
 <use keep/nc100_label.png>
-Package luatex.def Info: keep/nc100_label.png  used on input line 405.
+Package luatex.def Info: keep/nc100_label.png  used on input line 410.
 (luatex.def)             Requested size: 289.01239pt x 216.75163pt.
-<keep/lecithin.png, id=189, 2308.625pt x 3412.75pt>
+<keep/lecithin.png, id=194, 2308.625pt x 3412.75pt>
 File: keep/lecithin.png Graphic file (type png)
 <use keep/lecithin.png>
-Package luatex.def Info: keep/lecithin.png  used on input line 407.
+Package luatex.def Info: keep/lecithin.png  used on input line 412.
 (luatex.def)             Requested size: 289.07059pt x 216.78532pt.
  [4<./keep/nc100_label.png>]
-Overfull \hbox (70.6037pt too wide) in paragraph at lines 473--473
+Overfull \hbox (70.6037pt too wide) in paragraph at lines 478--478
  []$[]$ 
  []
 
 [5<./keep/lecithin.png>]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 513--513
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 518--518
 [][] 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 530--530
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 535--535
 [][] 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 554--554
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 559--559
 [][] 
  []
 
 [6]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 659--659
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 664--664
 [][] 
  []
 
 [7]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 751--751
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 756--756
 [][] 
  []
 
-[8] [9]
-<keep/olivelec.png, id=434, 903.375pt x 602.25pt>
+[8]
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 960--960
+[][] 
+ []
+
+(./gemini_oils2.tex
+Overfull \hbox (14.40002pt too wide) detected at line 29
+ \TU/lmr/m/n/9 [[]] 
+ []
+
+
+Overfull \hbox (14.40002pt too wide) detected at line 30
+ \TU/lmr/m/n/9 [[]] 
+ []
+
+
+Overfull \hbox (14.40002pt too wide) detected at line 30
+ \TU/lmr/m/n/9 [[]] 
+ []
+
+
+Overfull \hbox (14.40002pt too wide) detected at line 31
+ \TU/lmr/m/n/9 [[]] 
+ []
+
+
+Overfull \hbox (14.40002pt too wide) detected at line 31
+ \TU/lmr/m/n/9 [[]] 
+ []
+
+
+Overfull \hbox (14.40002pt too wide) detected at line 35
+ \TU/lmr/m/n/9 [[]] 
+ []
+
+
+Overfull \hbox (14.40002pt too wide) detected at line 37
+ \TU/lmr/m/n/9 [[]] 
+ []
+
+
+Overfull \hbox (14.40002pt too wide) detected at line 41
+ \TU/lmr/m/n/9 [[]] 
+ []
+
+
+Overfull \hbox (14.40002pt too wide) detected at line 41
+ \TU/lmr/m/n/9 [[]] 
+ []
+
+
+Overfull \hbox (14.40002pt too wide) detected at line 41
+ \TU/lmr/m/n/9 [[]] 
+ []
+
+
+Overfull \hbox (14.40002pt too wide) detected at line 45
+ \TU/lmr/m/n/9 [[]] 
+ []
+
+
+Overfull \hbox (14.40002pt too wide) detected at line 45
+ \TU/lmr/m/n/9 [[]] 
+ []
+
+
+Overfull \hbox (14.40002pt too wide) detected at line 45
+ \TU/lmr/m/n/9 [[]] 
+ []
+
+
+Overfull \hbox (14.40002pt too wide) detected at line 47
+ \TU/lmr/m/n/9 [[]] 
+ []
+
+
+Overfull \hbox (14.40002pt too wide) detected at line 51
+\TU/lmr/m/n/9 [[]] 
+ []
+
+
+Overfull \hbox (14.40002pt too wide) detected at line 51
+\TU/lmr/m/n/9 [[]] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) [9] [10]
+<keep/olivelec.png, id=514, 903.375pt x 602.25pt>
 File: keep/olivelec.png Graphic file (type png)
 <use keep/olivelec.png>
-Package luatex.def Info: keep/olivelec.png  used on input line 983.
+Package luatex.def Info: keep/olivelec.png  used on input line 1073.
 (luatex.def)             Requested size: 289.0859pt x 216.80983pt.
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1009--1009
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1099--1099
 [][] 
  []
 
-[10<./keep/olivelec.png>]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1097--1097
-[][] 
- []
-
-
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1123--1123
+[11<./keep/olivelec.png>]
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1187--1187
 [][] 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1140--1140
-[][] 
- []
-
-[11]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1239--1239
-[][] 
- []
-
-
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1253--1253
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1213--1213
 [][] 
  []
 
 [12]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1318--1318
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1230--1230
 [][] 
  []
 
-[13] (./inooil.bbl [14]
-Underfull \hbox (badness 2126) in paragraph at lines 198--202
+
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1329--1329
+[][] 
+ []
+
+[13]
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1343--1343
+[][] 
+ []
+
+
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1408--1408
+[][] 
+ []
+
+[14] (./inooil.bbl [15]
+Underfull \hbox (badness 2126) in paragraph at lines 214--218
 []\TU/lmr/m/n/9 Lu-ciana da Costa Car-valho.  Copper-organic com-plexes syn-thet
 ized elec-tro-chem-i-cally, 2022.  [][]$\TU/lmtt/m/n/9 doi:10.1007/
  []
 
-[15] [16] [17]
-Underfull \hbox (badness 2359) in paragraph at lines 792--803
+[16] [17] [18] [19]
+Underfull \hbox (badness 2359) in paragraph at lines 901--912
 \TU/lmr/m/n/9 path-way and mi-tophagy re-cep-tors.  \TU/lmr/m/it/9 Jour-nal of 
 Bio-chem-i-cal and Molec-u-lar Tox-i-col-ogy\TU/lmr/m/n/9 , 36(6):e23032, 2022.
  []
 
-[18]) [19] Including 'mdpicomment' comment.
+[20]) [21] Including 'mdpicomment' comment.
 \openout4 = comment.cut
  Straight input of comment.cut.
 (./comment.cut) Including 'mdpicomment' comment.
 \openout4 = comment.cut
 
 Straight input of comment.cut. (./comment.cut Excluding 'comment' comment.
-(./keep/oldtablelec.tex [20]) (./keep/newtablelec.tex [21] [22])
-(./keep/lectablelec.tex [23] [24]) [25] Excluding 'comment' comment.
-(/home/documents/latex/share/includes/disclaimer-gaslight.tex)
-(/home/documents/latex/share/includes/disclaimer-status.tex [26])
+(./keep/oldtablelec.tex [22]) (./keep/newtablelec.tex [23] [24])
+(./keep/lectablelec.tex [25] [26]) [27] Excluding 'comment' comment.
+(./junk/disclaimer-gaslight.tex) (./junk/disclaimer-status.tex [28])
 (./releases.tex)
 Overfull \hbox (10.0pt too wide) in paragraph at lines 106--111
 []$[]$ 
@@ -1385,27 +1489,27 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 106--111
 Excluding 'comment' comment.
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
 nput line 125.
- (./inooil.bundle_checksums [27])) [28]
+ (./inooil.bundle_checksums [29])) [30]
 (./inooil.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `inooil.out' has not changed.
-(rerunfilecheck)             Checksum: 26700F3A2B4C669C1C2D3697FE2112A9;5207.
+(rerunfilecheck)             Checksum: C951B60202CC4C4F6F6C994F23B628DE;5511.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35460 strings out of 475512
- 596191,1373583 words of node,token memory allocated
- 1230 words of node memory still in use:
-   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 66 attribute, 80 glue_spe
-c, 66 attribute_list, 54 pdf_action nodes
-   avail lists: 2:5213,3:1366,4:335,5:16448,6:138,7:24526,8:150,9:33513,10:30,11
-:1756
- 57281 multiletter control sequences out of 65536+600000
+ 35625 strings out of 475512
+ 596209,1648299 words of node,token memory allocated
+ 1260 words of node memory still in use:
+   11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 69 attribute, 80 glue_spe
+c, 69 attribute_list, 57 pdf_action nodes
+   avail lists: 1:1,2:5212,3:1345,4:334,5:16446,6:138,7:24516,8:151,9:33513,10:3
+0,11:1754
+ 57416 multiletter control sequences out of 65536+600000
  81 fonts using 5643927 bytes
- 124i,12n,116p,699b,1478s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 124i,12n,116p,699b,1544s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf></usr/share/texmf
 /fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/
 public/lm/lmroman9-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman8-
@@ -1415,15 +1519,17 @@ ts/opentype/public/lm/lmroman12-bold.otf></usr/share/texmf/fonts/opentype/public
 /lm/lmroman10-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman10-b
 old.otf></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmsy7.pfb>
-Output written on inooil.pdf (28 pages, 24119643 bytes).
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy7.pfb>
+Output written on inooil.pdf (30 pages, 24157227 bytes).
 
-PDF statistics: 919 PDF objects out of 1000 (max. 8388607)
- 842 compressed objects within 9 object streams
- 232 named destinations out of 1000 (max. 131072)
- 256 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 1029 PDF objects out of 1200 (max. 8388607)
+ 931 compressed objects within 10 object streams
+ 252 named destinations out of 1000 (max. 131072)
+ 264 words of extra memory for PDF output out of 10000 (max. 100000000)
 
