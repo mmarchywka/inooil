@@ -32,10 +32,14 @@ to October 2025 were high coughing and some decreasing
 activity as noted. The following months were mostly
 with the components discussed here as is shown in the table
 below.
-
+{
 \expandableinput{keep/oldtablelec.tex}
 \expandableinput{keep/newtablelec.tex}
 \expandableinput{keep/lectablelec.tex}
+}
+
+{ \expandableinput{keep/tab2006happy.tex} }
+
 
 \section{Symbols, Abbreviations and Colloquialisms}
 

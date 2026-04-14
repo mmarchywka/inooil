@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  11 APR 2026 14:29
+This is LuaHBTeX, Version 1.18.0 (TeX Live 2025/dev/Debian)  (format=lualatex 2025.7.10)  14 APR 2026 12:22
  restricted system commands enabled.
  file:line:error style messages enabled.
 **inooil.tex
@@ -40,8 +40,8 @@ Inserting `luaotfload.aux.fixup_fontdata' in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.aux.set_xheight' in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' in `luaotfload.patch_font'.
-Inserting `tracingstacklevels' in `input_level_string'. (./junk/myrevtexheaders
-.tex
+Inserting `tracingstacklevels' in `input_level_string'. (/home/documents/latex/
+share/includes/myrevtexheaders.tex
 (/usr/share/texlive/texmf-dist/tex/latex/revtex/revtex4-2.cls
 Document Class: revtex4-2 2022/06/05 4.2f (https://journals.aps.org/revtex/ for
  documentation)
@@ -241,7 +241,7 @@ Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
 \extratabsurround=\skip57
 \backup@length=\skip58
 ))
-(./junk/myskeletonpackages.tex
+(/home/documents/latex/share/includes/myskeletonpackages.tex
 (/usr/share/texlive/texmf-dist/tex/latex/fp/fp.sty
 Package: fp 1995/04/02
 
@@ -379,7 +379,8 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \fb@frh=\dimen159
 \FrameRule=\dimen160
 \FrameSep=\dimen161
-) (./junk/lgrind.sty
+)
+(/home/documents/latex/pkg/lgrind.sty
 Package: lgrind 1997/01/30 v3.4 LGrind environment and supporting stuff
 \lc@unt=\count317
 \ln@xt=\count318
@@ -391,7 +392,8 @@ Package: lgrind 1997/01/30 v3.4 LGrind environment and supporting stuff
 \tb@x=\box79
 \TBw@d=\dimen162
 \@ts=\dimen163
-) (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2024/06/23 v1.3e Standard LaTeX Color (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -581,7 +583,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip70
 )
-(./junk/fltpage.sty
+(/home/documents/latex/pkg/fltpage.sty
 Package: fltpage 1998/10/29 v.0.3 Floats on full page (SMU)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
@@ -1089,7 +1091,7 @@ Package morefloats Info: Maximum number of possible floats asked for: 36
 (morefloats)             LaTeX might run out of memory before this
 (morefloats)             (in which case it will notify you).
 )
-(./junk/recent_template.tex
+(/home/documents/latex/share/includes/recent_template.tex
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count383
 \lst@gtempboxa=\box109
@@ -1151,12 +1153,15 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@cols=\count395
 \TX@ftn=\toks48
 )
-(./junk/myskeletonpackages.tex)
+(/home/documents/latex/share/includes/myskeletonpackages.tex)
 
 Package array Warning: Column . is already defined on input line 28.
 
-Excluding 'comment' comment. (./junk/mycommands.tex (./junk/mjmaddbib.tex)
-(./junk/mjmlistings.tex)) (./inooil.last_page) Excluding 'comment' comment.
+Excluding 'comment' comment.
+(/home/documents/latex/share/includes/mycommands.tex
+(/home/documents/latex/share/includes/mjmaddbib.tex)
+(/home/documents/latex/share/includes/mjmlistings.tex)) (./inooil.last_page)
+Excluding 'comment' comment.
 \desttabw=\skip112
 \chainwidth=\skip113
 \slantwidth=\skip114
@@ -1166,9 +1171,9 @@ Excluding 'comment' comment. (./junk/mycommands.tex (./junk/mjmaddbib.tex)
 \subwfigwidthrot=\skip118
 \myboxwidth=\skip119
 \picwidth=\skip120
-
-Include comment 'mdpicomment' Excluding comment 'draftcomment'
-Excluding comment 'badmathcomment' Excluding comment 'showworkcomment'
+ Include comment 'mdpicomment'
+Excluding comment 'draftcomment' Excluding comment 'badmathcomment'
+Excluding comment 'showworkcomment'
 Class revtex4-2 Info: Unrecognized array package. Please update this document c
 lass! (Proceeding with fingers crossed.) on input line 301.
 
@@ -1422,40 +1427,40 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <keep/olivelec.png, id=514, 903.375pt x 602.25pt>
 File: keep/olivelec.png Graphic file (type png)
 <use keep/olivelec.png>
-Package luatex.def Info: keep/olivelec.png  used on input line 1073.
+Package luatex.def Info: keep/olivelec.png  used on input line 1075.
 (luatex.def)             Requested size: 289.0859pt x 216.80983pt.
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1099--1099
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1102--1102
 [][] 
  []
 
 [11<./keep/olivelec.png>]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1187--1187
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1195--1195
 [][] 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1213--1213
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1221--1221
 [][] 
  []
 
 [12]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1230--1230
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1238--1238
 [][] 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1329--1329
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1337--1337
 [][] 
  []
 
 [13]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1343--1343
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1351--1351
 [][] 
  []
 
 
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1408--1408
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1419--1419
 [][] 
  []
 
@@ -1479,17 +1484,19 @@ Bio-chem-i-cal and Molec-u-lar Tox-i-col-ogy\TU/lmr/m/n/9 , 36(6):e23032, 2022.
 
 Straight input of comment.cut. (./comment.cut Excluding 'comment' comment.
 (./keep/oldtablelec.tex [22]) (./keep/newtablelec.tex [23] [24])
-(./keep/lectablelec.tex [25] [26]) [27] Excluding 'comment' comment.
-(./junk/disclaimer-gaslight.tex) (./junk/disclaimer-status.tex [28])
+(./keep/lectablelec.tex [25] [26]) [27] (./keep/tab2006happy.tex [28]) [29]
+Excluding 'comment' comment.
+(/home/documents/latex/share/includes/disclaimer-gaslight.tex)
+(/home/documents/latex/share/includes/disclaimer-status.tex) [30]
 (./releases.tex)
-Overfull \hbox (10.0pt too wide) in paragraph at lines 106--111
+Overfull \hbox (10.0pt too wide) in paragraph at lines 110--115
 []$[]$ 
  []
 
 Excluding 'comment' comment.
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
-nput line 125.
- (./inooil.bundle_checksums [29])) [30]
+nput line 129.
+ (./inooil.bundle_checksums [31])) [32]
 (./inooil.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
@@ -1500,16 +1507,16 @@ Package rerunfilecheck Info: File `inooil.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 35625 strings out of 475512
- 596209,1648299 words of node,token memory allocated
+ 35629 strings out of 475512
+ 476961,1648299 words of node,token memory allocated
  1260 words of node memory still in use:
    11 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 69 attribute, 80 glue_spe
 c, 69 attribute_list, 57 pdf_action nodes
-   avail lists: 1:1,2:5212,3:1345,4:334,5:16446,6:138,7:24516,8:151,9:33513,10:3
-0,11:1754
- 57416 multiletter control sequences out of 65536+600000
+   avail lists: 2:4403,3:1297,4:332,5:9142,6:164,7:24215,8:150,9:18706,10:29,11:
+1637
+ 57419 multiletter control sequences out of 65536+600000
  81 fonts using 5643927 bytes
- 124i,12n,116p,699b,1544s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 124i,12n,116p,699b,1536s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf/fonts/opentype/public/lm/lmmono9-regular.otf></usr/share/texmf
 /fonts/opentype/public/lm/lmmono10-regular.otf></usr/share/texmf/fonts/opentype/
 public/lm/lmroman9-bold.otf></usr/share/texmf/fonts/opentype/public/lm/lmroman8-
@@ -1526,10 +1533,10 @@ onts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
 amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmsy7.pfb>
-Output written on inooil.pdf (30 pages, 24157227 bytes).
+Output written on inooil.pdf (32 pages, 24164882 bytes).
 
-PDF statistics: 1029 PDF objects out of 1200 (max. 8388607)
+PDF statistics: 1031 PDF objects out of 1200 (max. 8388607)
  931 compressed objects within 10 object streams
- 252 named destinations out of 1000 (max. 131072)
+ 247 named destinations out of 1000 (max. 131072)
  264 words of extra memory for PDF output out of 10000 (max. 100000000)
 
