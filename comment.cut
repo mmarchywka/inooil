@@ -32,13 +32,18 @@ to October 2025 were high coughing and some decreasing
 activity as noted. The following months were mostly
 with the components discussed here as is shown in the table
 below.
+\subsection{ Older tables}
 {
 \expandableinput{keep/oldtablelec.tex}
 \expandableinput{keep/newtablelec.tex}
 \expandableinput{keep/lectablelec.tex}
 }
 
+\subsection{ Early 2026 diet tables}
 { \expandableinput{keep/tab2006happy.tex} }
+
+\subsection{ May 2026 diet tables}
+{ \expandableinput{keep/tab2006mayhappy.tex} }
 
 
 \section{Symbols, Abbreviations and Colloquialisms}
@@ -82,6 +87,7 @@ This is tech report \mjmtrno.
 Version & Date & Comments  &  \\
 0.01 & \mjmmakedate  &  Create from empty.tex template  &  \\
 -  & \today & version  \mjmversion { }   \mjmtrno  &  \\
+.5 & 2026-05-25 &  First draft of intermediate results  &  \\
 1.0 & 20xx-xx-xx & First revision for distribution &  \\
 \end{tabular}
 \end{table}

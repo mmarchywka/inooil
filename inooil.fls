@@ -323,9 +323,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmmib6.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm
 INPUT /home/marchywka/.texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmroman6-regular.luc
+INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 INPUT /home/marchywka/.texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmroman9-bold.luc
 INPUT ./inooil.toc
-INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
 OUTPUT inooil.toc
 INPUT ./keep/nc100_label.png
 INPUT ./keep/nc100_label.png
@@ -343,6 +343,8 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy9.tfm
 INPUT ./gemini_oils2.tex
 INPUT ./keep/olivelec.png
 INPUT ./keep/olivelec.png
+INPUT ./keep/olivecan.png
+INPUT ./keep/olivecan.png
 INPUT /home/marchywka/.texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmmono10-regular.luc
 INPUT /home/marchywka/.texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmmono9-regular.luc
 INPUT ./inooil.bbl
@@ -355,6 +357,7 @@ INPUT /home/marchywka/.texlive2025/texmf-var/luatex-cache/generic/fonts/otl/lmro
 INPUT ./keep/newtablelec.tex
 INPUT ./keep/lectablelec.tex
 INPUT ./keep/tab2006happy.tex
+INPUT ./keep/tab2006mayhappy.tex
 INPUT /home/documents/latex/share/includes/disclaimer-gaslight.tex
 INPUT /home/documents/latex/share/includes/disclaimer-status.tex
 INPUT ./releases.tex

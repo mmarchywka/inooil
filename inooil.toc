@@ -1,4 +1,4 @@
-\contentsline {title}{Beneficial Effects Coincident with Adding Olive Oil and Inositol in a Dog Diet: Cause and Effect, Chain of Events }{1}{section*.2}%
+\contentsline {title}{Optimization of a Dog Diet with Various Supplements Including Fatty acid Sources : Cause and Effect, Chain of Events }{1}{section*.2}%
 \contentsline {abstract}{Abstract}{1}{section*.1}%
 \tocdepth@munge 
 \contentsline {section}{\numberline {}Contents}{2}{section*.3}%
@@ -16,19 +16,23 @@
 \contentsline {subsection}{\numberline {II.9}Late Additions: Essential Fatty Acids Sources }{9}{section*.14}%
 \contentsline {section}{\numberline {III} Diet Modification Description }{10}{section*.15}%
 \contentsline {section}{\numberline {IV} Results }{12}{section*.16}%
-\contentsline {section}{\numberline {V}Discussion}{12}{section*.17}%
+\contentsline {section}{\numberline {V}Discussion}{13}{section*.17}%
 \contentsline {subsection}{\numberline {V.1}Picky Eating }{14}{section*.18}%
-\contentsline {subsection}{\numberline {V.2}Its the Greatest Derivative Charlie Brown }{14}{section*.19}%
-\contentsline {section}{\numberline {VI}Conclusions}{14}{section*.20}%
-\contentsline {section}{\numberline {VII}Supplemental Information}{15}{section*.21}%
-\contentsline {subsection}{\numberline {VII.1}Computer Code}{15}{section*.22}%
-\contentsline {section}{\numberline {VIII}Bibliography}{15}{section*.23}%
-\contentsline {section}{\numberline {}References}{15}{section*.24}%
-\contentsline {section}{\numberline {}Acknowledgments}{21}{section*.25}%
+\contentsline {subsection}{\numberline {V.2}Its the Greatest Derivative Charlie Brown }{15}{section*.19}%
+\contentsline {subsection}{\numberline {V.3}Larger Relevance }{15}{section*.20}%
+\contentsline {section}{\numberline {VI}Conclusions}{15}{section*.21}%
+\contentsline {section}{\numberline {VII}Supplemental Information}{16}{section*.22}%
+\contentsline {subsection}{\numberline {VII.1}Computer Code}{16}{section*.23}%
+\contentsline {section}{\numberline {VIII}Bibliography}{16}{section*.24}%
+\contentsline {section}{\numberline {}References}{16}{section*.25}%
+\contentsline {section}{\numberline {}Acknowledgments}{23}{section*.26}%
 \appendix 
-\contentsline {section}{\numberline {A} Statement of Conflicts }{22}{section*.26}%
-\contentsline {section}{\numberline {B}About the Authors and Facility}{22}{section*.27}%
-\contentsline {section}{\numberline {C}Happy Monthly Diet Tables}{22}{section*.28}%
-\contentsline {section}{\numberline {D}Symbols, Abbreviations and Colloquialisms}{30}{section*.29}%
-\contentsline {section}{\numberline {E}General caveats and disclaimer }{30}{section*.30}%
-\contentsline {section}{\numberline {F}Citing this as a tech report or white paper }{30}{section*.31}%
+\contentsline {section}{\numberline {A} Statement of Conflicts }{24}{section*.27}%
+\contentsline {section}{\numberline {B}About the Authors and Facility}{24}{section*.28}%
+\contentsline {section}{\numberline {C}Happy Monthly Diet Tables}{24}{section*.29}%
+\contentsline {subsection}{\numberline {1} Older tables}{25}{section*.30}%
+\contentsline {subsection}{\numberline {2} Early 2026 diet tables}{31}{section*.31}%
+\contentsline {subsection}{\numberline {3} May 2026 diet tables}{33}{section*.32}%
+\contentsline {section}{\numberline {D}Symbols, Abbreviations and Colloquialisms}{34}{section*.33}%
+\contentsline {section}{\numberline {E}General caveats and disclaimer }{34}{section*.34}%
+\contentsline {section}{\numberline {F}Citing this as a tech report or white paper }{34}{section*.35}%
